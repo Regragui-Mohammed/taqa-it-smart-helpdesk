@@ -1,5 +1,24 @@
 # ⚡ TAQA IT Smart Helpdesk — Modern React Architecture
 
+<p align="center">
+  <img src="assets/logo_taqa.png" alt="TAQA Morocco Logo" width="180">
+</p>
+
+<h1 align="center">⚡ TAQA IT Smart Helpdesk</h1>
+
+<p align="center">
+  <em>An intelligent, enterprise-grade IT Service Management (ITSM) and Helpdesk automation platform designed for TAQA Morocco.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Backend-Python_Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/AI-LLaMA_3.2-0467DF?style=for-the-badge" alt="LLaMA 3.2" />
+  <img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+</p>
+
+---
+
 An intelligent, enterprise-grade IT Service Management (ITSM) and Helpdesk automation platform designed for **TAQA Morocco**.  
 Built entirely on a **Modern React 18 + Vite Frontend** coupled with a high-performance **Python Flask REST API Backend**, backed by **Machine Learning (MultiOutput LinearSVC + TF-IDF)**, a **spaCy NLP Preprocessing Pipeline**, a **162-article English Knowledge Base**, and a **Local Large Language Model (LLaMA 3.2 via Ollama)**.
 
