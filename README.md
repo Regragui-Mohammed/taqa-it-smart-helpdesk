@@ -2,7 +2,7 @@
   <img src="assets/logo_taqa.png" alt="TAQA Morocco Logo" width="180">
 </p>
 
-<h1 align="center">⚡ TAQA IT Smart Helpdesk</h1>
+<h1 align="center"> TAQA IT Smart Helpdesk</h1>
 
 <p align="center">
   <em>An intelligent, enterprise-grade IT Service Management (ITSM) and Helpdesk automation platform designed for TAQA Morocco.</em>
