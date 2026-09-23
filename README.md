@@ -1,5 +1,3 @@
-# ⚡ TAQA IT Smart Helpdesk — Modern React Architecture
-
 <p align="center">
   <img src="assets/logo_taqa.png" alt="TAQA Morocco Logo" width="180">
 </p>
@@ -18,6 +16,30 @@
 </p>
 
 ---
+
+## 📖 Overview
+This project is an advanced, automated IT helpdesk solution that streamlines support requests. It utilizes cutting-edge Machine Learning and Natural Language Processing to instantly classify tickets, retrieve solutions from a proprietary Knowledge Base, and generate human-like, accurate responses for TAQA's employees.
+
+## 🏗️ Modern Architecture
+Built entirely on a decoupled architecture for maximum performance and 100% data privacy:
+*   **Frontend:** Modern React 18 + Vite (featuring a dynamic Split-Screen UI and Floating Chatbot Widget).
+*   **Backend:** High-performance Python Flask REST API.
+*   **Classification Engine:** Machine Learning pipeline using `MultiOutput LinearSVC` + `TF-IDF` alongside a `spaCy` NLP Preprocessing Pipeline.
+*   **Knowledge Base:** 162-article proprietary English SOPs integrated via deterministic retrieval.
+*   **Generative AI (RAG):** Local Large Language Model (LLaMA 3.2 via Ollama) ensuring zero data leakage outside the corporate network.
+
+## ✨ Key Features
+- 🤖 **Auto-Triage (Zero Touch):** Automatically assigns Categories, Subcategories, and Priority levels to incoming IT tickets.
+- 💬 **Smart Chatbot:** A responsive widget that understands natural language and provides step-by-step IT resolutions.
+- 🔒 **100% Air-Gapped AI:** All LLM processing is executed locally. No sensitive corporate data is sent to external APIs (like OpenAI or Anthropic).
+- 📊 **Enterprise UI:** A custom, TAQA-branded interface designed for intuitive employee self-service.
+
+## 🚀 Installation & Setup
+
+### 1. Prerequisites
+- Node.js & npm
+- Python 3.9+
+- [Ollama](https://ollama.com/) installed locally.
 
 An intelligent, enterprise-grade IT Service Management (ITSM) and Helpdesk automation platform designed for **TAQA Morocco**.  
 Built entirely on a **Modern React 18 + Vite Frontend** coupled with a high-performance **Python Flask REST API Backend**, backed by **Machine Learning (MultiOutput LinearSVC + TF-IDF)**, a **spaCy NLP Preprocessing Pipeline**, a **162-article English Knowledge Base**, and a **Local Large Language Model (LLaMA 3.2 via Ollama)**.
