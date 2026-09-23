@@ -1,0 +1,534 @@
+Category,Description,Assigned_Team
+Access,access deny auditor policy,Desktop Support
+Security,suspicious dll injection,Security Team
+Security,suspicious soc alert,Security Team
+Software,app freeze,Application Support
+Access,access logging failure,Desktop Support
+Security,suspicious outbound traffic,Security Team
+Security,unauthorized access attempt,Security Team
+Hardware,peripheral device failure,Desktop Support
+Network,access point,Network Team
+Security,suspicious session hijack,Security Team
+Hardware,laptop charge port loose,Desktop Support
+Software,application crash print,Application Support
+Access,access deny outage,Desktop Support
+Software,application crash sync,Application Support
+Hardware,laptop screen red tint,Desktop Support
+Hardware,laptop screen color distortion,Desktop Support
+Software,slow application performance,Application Support
+Access,remote desktop login failure,Desktop Support
+Access,access compliance violation,Desktop Support
+Hardware,loose cable connection,Desktop Support
+Software,collaboration tool login failure,Application Support
+Network,network dual - stack error,Network Team
+Access,access deny partner policy,Desktop Support
+Hardware,webcam malfunction,Desktop Support
+Software,mobile app installing,Application Support
+Security,spyware infection,Security Team
+Software,application crash api call,Application Support
+Hardware,laptop hinge loose,Desktop Support
+Access,access deny switch,Desktop Support
+Network,ip conflict,Network Team
+Software,application crash query,Application Support
+Network,firewall block access,Network Team
+Access,access right revoke,Desktop Support
+Security,suspicious c2 server detect,Security Team
+Hardware,smartphone charge issue,Desktop Support
+Access,access deny password policy,Desktop Support
+Security,suspicious nist violation,Security Team
+Software,api call failure,Application Support
+Security,suspicious iot device alert,Security Team
+Hardware,ssd detect,Desktop Support
+Network,load balancer misconfigured,Network Team
+Hardware,usb port work,Desktop Support
+Security,rootkit find,Security Team
+Access,access deny guest policy,Desktop Support
+Network,proxy server misconfiguration,Network Team
+Software,application crash cloud sync,Application Support
+Software,application crash export,Application Support
+Network,network adapter disable,Network Team
+Software,application crash dashboard,Application Support
+Security,suspicious partner compromise,Security Team
+Network,network ddo detect,Network Team
+Access,access deny api,Desktop Support
+Hardware,overheat issue,Desktop Support
+Network,network blackhole rout,Network Team
+Network,access point misconfigured,Network Team
+Security,suspicious beacon traffic,Security Team
+Access,access deny iso policy,Desktop Support
+Security,malware alert,Security Team
+Software,application crash build,Application Support
+Network,switch overheat,Network Team
+Security,suspicious policy violation,Security Team
+Access,access deny siem policy,Desktop Support
+Security,suspicious mobile device alert,Security Team
+Security,suspicious process execution,Security Team
+Access,access deny casb policy,Desktop Support
+Network,network snmp misconfigure,Network Team
+Access,access token misconfigured,Desktop Support
+Hardware,laptop screen problem,Desktop Support
+Hardware,laptop casing crack,Desktop Support
+Network,network subnet mask error,Network Team
+Network,network repeater failure,Network Team
+Software,application crash module,Application Support
+Access,access role mismatch,Desktop Support
+Network,network ipv6 misconfigured,Network Team
+Security,phishe website block,Security Team
+Software,compiler error,Application Support
+Software,application memory overflow,Application Support
+Network,wi - fi connectivity issue,Network Team
+Security,suspicious jwt token use,Security Team
+Software,application crash vm snapshot,Application Support
+Network,router firmware outdate,Network Team
+Network,packet loss detect,Network Team
+Hardware,laptop screen hinge break,Desktop Support
+Hardware,headset mic working,Desktop Support
+Access,access deny database,Desktop Support
+Security,suspicious shadow detect,Security Team
+Access,pin reset require,Desktop Support
+Security,suspicious container activity,Security Team
+Access,user access deny,Desktop Support
+Software,application crash framework,Application Support
+Network,network tunneling error,Network Team
+Software,operating system error,Application Support
+Hardware,laptop fan failure,Desktop Support
+Software,application crash automation,Application Support
+Security,suspicious insider activity,Security Team
+Access,share drive permission issue,Desktop Support
+Security,suspicious oauth token use,Security Team
+Security,suspicious replay attack,Security Team
+Hardware,keyboard malfunction,Desktop Support
+Network,firewall nat error,Network Team
+Security,brute force login attempt,Security Team
+Network,hotspot work,Network Team
+Access,access deny iam policy,Desktop Support
+Network,network dns cache poisoning,Network Team
+Hardware,laptop screen orange tint,Desktop Support
+Access,access audit failure,Desktop Support
+Security,suspicious ics alert,Security Team
+Hardware,laptop screen ghost image,Desktop Support
+Security,suspicious ot device alert,Security Team
+Hardware,laptop screen yellow tint,Desktop Support
+Access,access deny custom policy,Desktop Support
+Hardware,external ssd overheat,Desktop Support
+Access,role - base access error,Desktop Support
+Software,software update loop,Application Support
+Software,application configuration mismatch,Application Support
+Security,suspicious saas login,Security Team
+Access,privilege escalation block,Desktop Support
+Security,security patch miss,Security Team
+Security,suspicious file download,Security Team
+Security,endpoint compliant,Security Team
+Network,bandwidth exceed,Network Team
+Network,network authentication failure,Network Team
+Hardware,overheat gpu,Desktop Support
+Network,gateway timeout,Network Team
+Hardware,laptop will n’t power,Desktop Support
+Software,application crash vm restore,Application Support
+Access,access deny proxy,Desktop Support
+Access,access deny router,Desktop Support
+Hardware,laptop cmos battery failure,Desktop Support
+Hardware,laptop battery swell,Desktop Support
+Software,application crash logout,Application Support
+Software,application crash exit,Application Support
+Hardware,cd / dvd drive working,Desktop Support
+Software,application crash import,Application Support
+Security,suspicious traffic tunneling,Security Team
+Software,email client sync,Application Support
+Access,group membership problem,Desktop Support
+Hardware,speaker / audio failure,Desktop Support
+Security,weak password detect,Security Team
+Security,suspicious registry change,Security Team
+Hardware,laptop screen black screen,Desktop Support
+Security,malicious macro detect,Security Team
+Access,password reset,Desktop Support
+Access,api key expire,Desktop Support
+Security,suspicious iso violation,Security Team
+Security,keylogger detect,Security Team
+Software,ui responsive,Application Support
+Network,network ssl vpn failure,Network Team
+Software,software installation fail,Application Support
+Software,unrecognized file type,Application Support
+Software,application crash vm deployment,Application Support
+Software,database connection error,Application Support
+Access,access deny gdpr policy,Desktop Support
+Security,suspicious api token use,Security Team
+Network,network dhcp server,Network Team
+Hardware,laptop screen purple tint,Desktop Support
+Access,biometric login fail,Desktop Support
+Network,network mtu mismatch,Network Team
+Network,network hub failure,Network Team
+Access,access monitoring disable,Desktop Support
+Access,badge / physical access deny,Desktop Support
+Security,suspicious endpoint alert,Security Team
+Access,directory sync error,Desktop Support
+Software,session timeout,Application Support
+Hardware,printer ink cartridge error,Desktop Support
+Hardware,battery charging,Desktop Support
+Security,suspicious siem alert,Security Team
+Software,configuration file miss,Application Support
+Access,access policy violation,Desktop Support
+Hardware,laptop screen pink tint,Desktop Support
+Access,ldap authentication fail,Desktop Support
+Network,network duplex mismatch,Network Team
+Security,suspicious privilege misuse,Security Team
+Access,smart card recognize,Desktop Support
+Network,network ids alert,Network Team
+Network,network syslog server,Network Team
+Software,browser crash,Application Support
+Network,voip call drop,Network Team
+Access,access deny gateway,Desktop Support
+Network,network collision detect,Network Team
+Hardware,laptop screen horizontal line,Desktop Support
+Network,ssid visible,Network Team
+Access,access deny firewall,Desktop Support
+Software,cloud sync failure,Application Support
+Access,guest account disable,Desktop Support
+Network,network unauthorized access,Network Team
+Network,internet outage,Network Team
+Access,license expire,Desktop Support
+Network,network split horizon error,Network Team
+Security,suspicious arp spoof,Security Team
+Network,network static route error,Network Team
+Security,data breach incident,Security Team
+Hardware,usb hub recognize,Desktop Support
+Security,trojan detect,Security Team
+Software,patch conflict,Application Support
+Security,unauthorized api call,Security Team
+Network,cloud service unreachable,Network Team
+Software,service start,Application Support
+Network,port block,Network Team
+Hardware,laptop screen blue tint,Desktop Support
+Software,application crash uninstall,Application Support
+Software,corrupt installation package,Application Support
+Software,antivirus updating,Application Support
+Access,login issue,Desktop Support
+Network,qos misconfigured,Network Team
+Hardware,peripheral compatibility issue,Desktop Support
+Security,compromise credential,Security Team
+Network,network cable damage,Network Team
+Access,access deny application,Desktop Support
+Security,unauthorized usb access,Security Team
+Hardware,laptop screen vertical line,Desktop Support
+Hardware,laptop screen white screen,Desktop Support
+Access,access deny misconfiguration,Desktop Support
+Network,cable unplug,Network Team
+Security,suspicious vm activity,Security Team
+Software,application crash install,Application Support
+Hardware,fan noise issue,Desktop Support
+Network,network packet sniffing detect,Network Team
+Access,access deny hipaa policy,Desktop Support
+Access,access deny pci policy,Desktop Support
+Security,suspicious dns poisoning,Security Team
+Access,sso login failure,Desktop Support
+Network,network firewall overload,Network Team
+Access,access deny network policy,Desktop Support
+Software,cache corruption,Application Support
+Access,access deny cis policy,Desktop Support
+Hardware,laptop camera blurry,Desktop Support
+Software,application registry corruption,Application Support
+Access,access deny abac policy,Desktop Support
+Hardware,blue screen hardware fault,Desktop Support
+Security,suspicious man - in - the - middle attack,Security Team
+Network,network policy violation,Network Team
+Access,admin right request,Desktop Support
+Security,suspicious rat detect,Security Team
+Access,access deny rbac policy,Desktop Support
+Network,network rip misconfigured,Network Team
+Access,access deny mobile device policy,Desktop Support
+Hardware,laptop screen green tint,Desktop Support
+Access,share folder accessible,Desktop Support
+Security,suspicious email attachment,Security Team
+Security,suspicious port knock,Security Team
+Software,application crash load,Application Support
+Hardware,dock station issue,Desktop Support
+Software,application crash macro,Application Support
+Access,access deny browser policy,Desktop Support
+Access,access deny certificate policy,Desktop Support
+Network,network congestion,Network Team
+Network,network acl blocking,Network Team
+Software,application crash container start,Application Support
+Access,access deny temporary restriction,Desktop Support
+Access,access deny sox policy,Desktop Support
+Access,multi - factor authentication failure,Desktop Support
+Software,application crash save,Application Support
+Access,account provision error,Desktop Support
+Access,temporary access request,Desktop Support
+Hardware,laptop screen refresh rate issue,Desktop Support
+Access,access deny os policy,Desktop Support
+Network,bgp misconfiguration,Network Team
+Software,application crash vm shutdown,Application Support
+Access,access deny conditional access,Desktop Support
+Software,virtual machine crash,Application Support
+Hardware,laptop keyboard backlight failure,Desktop Support
+Hardware,laptop screen driver miss,Desktop Support
+Hardware,printer issue,Desktop Support
+Network,network ip address error,Network Team
+Network,network nat misconfigured,Network Team
+Access,access deny soc policy,Desktop Support
+Software,script runtime error,Application Support
+Software,application crash deploy,Application Support
+Hardware,laptop touch screen working,Desktop Support
+Software,application crash plugin,Application Support
+Hardware,motherboard capacitor blow,Desktop Support
+Hardware,laptop screen grayscale issue,Desktop Support
+Security,suspicious custom policy violation,Security Team
+Network,router reboot require,Network Team
+Software,application crash analytic,Application Support
+Access,access deny regulatory policy,Desktop Support
+Software,macro execution error,Application Support
+Security,suspicious cookie theft,Security Team
+Software,application crash script,Application Support
+Hardware,external gpu detect,Desktop Support
+Security,privilege escalation attempt,Security Team
+Security,suspicious audit log tampering,Security Team
+Network,rout loop,Network Team
+Access,access deny contractor policy,Desktop Support
+Security,suspicious dns hijack,Security Team
+Security,certificate expire,Security Team
+Access,access deny system error,Desktop Support
+Access,cloud account suspend,Desktop Support
+Access,token expire,Desktop Support
+Software,application freeze startup,Application Support
+Network,arp conflict,Network Team
+Software,spreadsheet formula error,Application Support
+Network,network misroute traffic,Network Team
+Security,suspicious schedule task,Security Team
+Hardware,laptop screen cable loose,Desktop Support
+Access,vpn login deny,Desktop Support
+Network,network configuration drift,Network Team
+Hardware,laptop screen connector failure,Desktop Support
+Software,application crash login,Application Support
+Network,network loop detect,Network Team
+Access,temporary password expire,Desktop Support
+Software,software dependency miss,Application Support
+Software,application crash library,Application Support
+Security,cross - site scripting detect,Security Team
+Network,network arp poisoning,Network Team
+Hardware,scanner calibration issue,Desktop Support
+Access,access deny saas provider,Desktop Support
+Security,phishe attempt report,Security Team
+Network,switch port failure,Network Team
+Network,network driver outdate,Network Team
+Software,registry error,Application Support
+Security,ddos attack detect,Security Team
+Network,network spoof attempt,Network Team
+Network,isp outage,Network Team
+Software,plugin loading,Application Support
+Security,suspicious compliance violation,Security Team
+Network,network asymmetric routing,Network Team
+Security,ransomware infection,Security Team
+Hardware,laptop screen resolution error,Desktop Support
+Software,application crash restore,Application Support
+Access,account lockout,Desktop Support
+Network,network gre tunnel failure,Network Team
+Software,application crash compile,Application Support
+Security,suspicious third - party compromise,Security Team
+Network,network ipsec tunnel failure,Network Team
+Access,access deny compliance policy,Desktop Support
+Network,network speed slow,Network Team
+Hardware,laptop ram slot failure,Desktop Support
+Hardware,laptop screen flickering,Desktop Support
+Access,access deny endpoint policy,Desktop Support
+Software,file format support,Application Support
+Network,network alert storm,Network Team
+Software,application respond,Application Support
+Hardware,break hinge,Desktop Support
+Software,application crash vm migration,Application Support
+Hardware,laptop bio corrupt,Desktop Support
+Network,network unauthorized device detect,Network Team
+Access,access deny server,Desktop Support
+Network,dhcp failure,Network Team
+Security,botnet activity,Security Team
+Hardware,desktop will n’t boot,Desktop Support
+Network,vpn certificate expire,Network Team
+Hardware,monitor flickering,Desktop Support
+Software,driver conflict,Application Support
+Security,suspicious admin activity,Security Team
+Access,access deny vpn policy,Desktop Support
+Hardware,motherboard failure,Desktop Support
+Network,network bridge failure,Network Team
+Security,suspicious mac spoof,Security Team
+Network,dns resolution problem,Network Team
+Software,application cpu overload,Application Support
+Hardware,laptop screen dim,Desktop Support
+Access,access deny cloud service,Desktop Support
+Network,ethernet port disable,Network Team
+Hardware,tablet screen crack,Desktop Support
+Access,access delegation error,Desktop Support
+Software,application crash debug,Application Support
+Software,file corruption,Application Support
+Security,suspicious login location,Security Team
+Hardware,printer paper jam,Desktop Support
+Network,network monitor tool failure,Network Team
+Hardware,projector bulb failure,Desktop Support
+Security,suspicious powershell script,Security Team
+Security,suspicious pci violation,Security Team
+Network,proxy authentication error,Network Team
+Software,application crash test,Application Support
+Software,application crash disconnect,Application Support
+Hardware,laptop gpu detect,Desktop Support
+Network,network ips alert,Network Team
+Software,license issue,Application Support
+Access,access deny encryption policy,Desktop Support
+Security,zero - day exploit,Security Team
+Network,broadcast storm,Network Team
+Security,suspicious memory dump,Security Team
+Network,bridge mode error,Network Team
+Hardware,mouse issue,Desktop Support
+Network,network pat misconfigured,Network Team
+Software,software timeout,Application Support
+Software,application crash run,Application Support
+Hardware,keyboard key stick,Desktop Support
+Network,network dns server,Network Team
+Hardware,scanner detect,Desktop Support
+Security,firewall intrusion alert,Security Team
+Security,suspicious cloud login,Security Team
+Hardware,laptop fan noise,Desktop Support
+Software,memory leak detect,Application Support
+Hardware,external hdd mount,Desktop Support
+Network,vpn connection failure,Network Team
+Hardware,laptop microphone working,Desktop Support
+Access,inactive account,Desktop Support
+Security,suspicious supply chain attack,Security Team
+Security,suspicious sox violation,Security Team
+Hardware,laptop speaker distortion,Desktop Support
+Network,network mpls misconfigure,Network Team
+Security,suspicious scada alert,Security Team
+Access,account disabled policy,Desktop Support
+Network,duplicate ip detect,Network Team
+Hardware,laptop screen line,Desktop Support
+Security,suspicious contractor compromise,Security Team
+Network,captive portal issue,Network Team
+Software,unsupported operating system version,Application Support
+Security,suspicious cis violation,Security Team
+Software,application deadlock,Application Support
+Network,network eigrp misconfigured,Network Team
+Hardware,ram failure,Desktop Support
+Network,network jitter,Network Team
+Network,network port scanning detect,Network Team
+Software,application startup failure,Application Support
+Software,background process stick,Application Support
+Security,sql injection attempt,Security Team
+Hardware,laptop screen brightness issue,Desktop Support
+Security,email spoofing detect,Security Team
+Hardware,overheat cpu,Desktop Support
+Network,latency spike,Network Team
+Software,application crash update,Application Support
+Security,suspicious hypervisor activity,Security Team
+Software,version incompatibility,Application Support
+Security,suspicious network scan,Security Team
+Network,network vlan misconfigure,Network Team
+Hardware,laptop trackpad jitter,Desktop Support
+Hardware,laptop screen invert color,Desktop Support
+Hardware,mouse double - click issue,Desktop Support
+Hardware,power supply failure,Desktop Support
+Security,cloud misconfiguration,Security Team
+Access,access control list misconfigure,Desktop Support
+Security,suspicious hipaa violation,Security Team
+Software,application crash service call,Application Support
+Security,suspicious vendor compromise,Security Team
+Security,unpatched vulnerability,Security Team
+Access,access deny maintenance window,Desktop Support
+Security,suspicious exfiltration detect,Security Team
+Access,certificate login failure,Desktop Support
+Network,network ospf misconfigured,Network Team
+Access,access timeout,Desktop Support
+Security,suspicious ip spoof,Security Team
+Security,suspicious gdpr violation,Security Team
+Hardware,graphic card overheat,Desktop Support
+Hardware,laptop screen dead pixel,Desktop Support
+Hardware,hard drive crash,Desktop Support
+Security,suspicious activity detect,Security Team
+Hardware,laptop motherboard short circuit,Desktop Support
+Security,suspicious driver installation,Security Team
+Hardware,laptop screen crack,Desktop Support
+Security,usb device block,Security Team
+Network,weak signal strength,Network Team
+Access,unauthorized login attempt,Desktop Support
+Security,suspicious service startup,Security Team
+Software,update rollback issue,Application Support
+Hardware,laptop overheat shutdown,Desktop Support
+Network,network ntp server unreachable,Network Team
+Network,network compliance violation,Network Team
+Network,network segmentation error,Network Team
+Software,application crash extension,Application Support
+Software,authentication error,Application Support
+Software,ide opening,Application Support
+Network,network default gateway miss,Network Team
+Access,access deny nist policy,Desktop Support
+Software,application crash,Application Support
+Security,expose database,Security Team
+Access,access approval pende,Desktop Support
+Hardware,laptop screen frozen image,Desktop Support
+Software,application crash workflow,Application Support
+Software,application crash backup,Application Support
+Access,kerberos ticket expire,Desktop Support
+Hardware,docking station recognize,Desktop Support
+Security,suspicious packet injection,Security Team
+Hardware,monitor dead pixel,Desktop Support
+Access,access deny device compliance,Desktop Support
+Access,access deny vendor policy,Desktop Support
+Security,suspicious backdoor detect,Security Team
+Hardware,bio error,Desktop Support
+Software,application license expire,Application Support
+Hardware,laptop screen burn - in,Desktop Support
+Software,application crash report,Application Support
+Hardware,touchpad respond,Desktop Support
+Software,application crash visualization,Application Support
+Hardware,hardware driver miss,Desktop Support
+Access,access deny byod policy,Desktop Support
+Software,patch update fail,Application Support
+Access,access deny token policy,Desktop Support
+Access,access deny dlp policy,Desktop Support
+Software,application crash vm boot,Application Support
+Security,suspicious kernel activity,Security Team
+Network,unstable wireless connection,Network Team
+Access,email account disable,Desktop Support
+Access,access deny geolocation policy,Desktop Support
+Access,access revocation pende,Desktop Support
+Access,access deny mfa policy,Desktop Support
+Software,application crash connect,Application Support
+Hardware,laptop screen backlight failure,Desktop Support
+Software,container deployment error,Application Support
+Hardware,laptop screen ghost,Desktop Support
+Security,ransomware alert,Security Team
+Hardware,ram issue,Desktop Support
+Software,software update failure,Application Support
+Network,dns resolution failure,Network Team
+Security,malware detect,Security Team
+Hardware,overheat device,Desktop Support
+Network,vpn tunnel drop,Network Team
+Network,switch port,Network Team
+Hardware,keyboard respond,Desktop Support
+Access,password reset failure,Desktop Support
+Access,single sign - on error,Desktop Support
+Software,license expire,Application Support
+Access,mfa working,Desktop Support
+Network,slow network speed,Network Team
+Security,datum exfiltration attempt,Security Team
+Hardware,hard drive failure,Desktop Support
+Software,api timeout,Application Support
+Security,brute force attack,Security Team
+Access,vpn access issue,Desktop Support
+Security,phishe email detect,Security Team
+Category,description,Assigned_Team
+Hardware,webcam recognize,Desktop Support
+Network,wi - fi authentication failure,Network Team
+Software,cloud storage sync error,Application Support
+Access,token validation error,Desktop Support
+Hardware,battery drain fast,Desktop Support
+Access,role permission mismatch,Desktop Support
+Network,proxy misconfiguration,Network Team
+Hardware,dock station failure,Desktop Support
+Hardware,printer detect,Desktop Support
+Network,dhcp server unresponsive,Network Team
+Security,certificate spoof,Security Team
+Security,zero - day exploit detect,Security Team
+Access,privileged access misuse,Desktop Support
+Software,report generation failure,Application Support
+Access,directory sync failure,Desktop Support
+Access,guest account expire,Desktop Support
+Software,broken ui update,Application Support
+Security,insider threat alert,Security Team
+Network,bgp route flapping,Network Team

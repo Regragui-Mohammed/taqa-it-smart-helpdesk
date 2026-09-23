@@ -1,0 +1,112 @@
+/* Support-specific styles (imports shared dashboard styles via EmployeeDashboard.css) */
+
+.support-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.support-header-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.support-team-switch {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.support-team-switch label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #64748b;
+}
+
+.team-select-dropdown {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1.5px solid #cbd5e1;
+  background: #ffffff;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #0B2341;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.team-select-dropdown:focus {
+  border-color: #00A3E0;
+  box-shadow: 0 0 0 3px rgba(0, 163, 224, 0.15);
+}
+
+.ticket-count-badge {
+  background: rgba(37, 99, 235, 0.08);
+  color: #2563eb;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+/* Action buttons */
+.action-btn {
+  padding: 7px 14px;
+  border-radius: 8px;
+  border: none;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  white-space: nowrap;
+}
+
+.action-resolve {
+  background: rgba(16, 185, 129, 0.1);
+  color: #047857;
+  border: 1px solid rgba(16, 185, 129, 0.2);
+}
+
+.action-resolve:hover:not(:disabled) {
+  background: rgba(16, 185, 129, 0.2);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(16, 185, 129, 0.15);
+}
+
+.action-reopen {
+  background: rgba(245, 158, 11, 0.1);
+  color: #b45309;
+  border: 1px solid rgba(245, 158, 11, 0.2);
+}
+
+.action-reopen:hover:not(:disabled) {
+  background: rgba(245, 158, 11, 0.2);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(245, 158, 11, 0.15);
+}
+
+.action-btn:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+.spinner-sm {
+  width: 14px;
+  height: 14px;
+  border: 2px solid rgba(0, 0, 0, 0.15);
+  border-top-color: currentColor;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+  display: inline-block;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}

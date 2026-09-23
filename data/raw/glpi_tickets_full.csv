@@ -1,0 +1,2368 @@
+Category,Description,Assigned_Team
+Access,access deny auditor policy,Desktop Support
+Security,suspicious dll injection,Security Team
+Security,suspicious soc alert,Security Team
+Software,app freeze,Application Support
+Access,access logging failure,Desktop Support
+Security,suspicious outbound traffic,Security Team
+Security,unauthorized access attempt,Security Team
+Hardware,peripheral device failure,Desktop Support
+Network,access point,Network Team
+Security,suspicious session hijack,Security Team
+Hardware,laptop charge port loose,Desktop Support
+Software,application crash print,Application Support
+Access,access deny outage,Desktop Support
+Software,application crash sync,Application Support
+Hardware,laptop screen red tint,Desktop Support
+Hardware,laptop screen color distortion,Desktop Support
+Software,slow application performance,Application Support
+Access,remote desktop login failure,Desktop Support
+Access,access compliance violation,Desktop Support
+Hardware,loose cable connection,Desktop Support
+Software,collaboration tool login failure,Application Support
+Network,network dual - stack error,Network Team
+Access,access deny partner policy,Desktop Support
+Hardware,webcam malfunction,Desktop Support
+Software,mobile app installing,Application Support
+Security,spyware infection,Security Team
+Software,application crash api call,Application Support
+Hardware,laptop hinge loose,Desktop Support
+Access,access deny switch,Desktop Support
+Network,ip conflict,Network Team
+Software,application crash query,Application Support
+Network,firewall block access,Network Team
+Access,access right revoke,Desktop Support
+Security,suspicious c2 server detect,Security Team
+Hardware,smartphone charge issue,Desktop Support
+Access,access deny password policy,Desktop Support
+Security,suspicious nist violation,Security Team
+Software,api call failure,Application Support
+Security,suspicious iot device alert,Security Team
+Hardware,ssd detect,Desktop Support
+Network,load balancer misconfigured,Network Team
+Hardware,usb port work,Desktop Support
+Security,rootkit find,Security Team
+Access,access deny guest policy,Desktop Support
+Network,proxy server misconfiguration,Network Team
+Software,application crash cloud sync,Application Support
+Software,application crash export,Application Support
+Network,network adapter disable,Network Team
+Software,application crash dashboard,Application Support
+Security,suspicious partner compromise,Security Team
+Network,network ddo detect,Network Team
+Access,access deny api,Desktop Support
+Hardware,overheat issue,Desktop Support
+Network,network blackhole rout,Network Team
+Network,access point misconfigured,Network Team
+Security,suspicious beacon traffic,Security Team
+Access,access deny iso policy,Desktop Support
+Security,malware alert,Security Team
+Software,application crash build,Application Support
+Network,switch overheat,Network Team
+Security,suspicious policy violation,Security Team
+Access,access deny siem policy,Desktop Support
+Security,suspicious mobile device alert,Security Team
+Security,suspicious process execution,Security Team
+Access,access deny casb policy,Desktop Support
+Network,network snmp misconfigure,Network Team
+Access,access token misconfigured,Desktop Support
+Hardware,laptop screen problem,Desktop Support
+Hardware,laptop casing crack,Desktop Support
+Network,network subnet mask error,Network Team
+Network,network repeater failure,Network Team
+Software,application crash module,Application Support
+Access,access role mismatch,Desktop Support
+Network,network ipv6 misconfigured,Network Team
+Security,phishe website block,Security Team
+Software,compiler error,Application Support
+Software,application memory overflow,Application Support
+Network,wi - fi connectivity issue,Network Team
+Security,suspicious jwt token use,Security Team
+Software,application crash vm snapshot,Application Support
+Network,router firmware outdate,Network Team
+Network,packet loss detect,Network Team
+Hardware,laptop screen hinge break,Desktop Support
+Hardware,headset mic working,Desktop Support
+Access,access deny database,Desktop Support
+Security,suspicious shadow detect,Security Team
+Access,pin reset require,Desktop Support
+Security,suspicious container activity,Security Team
+Access,user access deny,Desktop Support
+Software,application crash framework,Application Support
+Network,network tunneling error,Network Team
+Software,operating system error,Application Support
+Hardware,laptop fan failure,Desktop Support
+Software,application crash automation,Application Support
+Security,suspicious insider activity,Security Team
+Access,share drive permission issue,Desktop Support
+Security,suspicious oauth token use,Security Team
+Security,suspicious replay attack,Security Team
+Hardware,keyboard malfunction,Desktop Support
+Network,firewall nat error,Network Team
+Security,brute force login attempt,Security Team
+Network,hotspot work,Network Team
+Access,access deny iam policy,Desktop Support
+Network,network dns cache poisoning,Network Team
+Hardware,laptop screen orange tint,Desktop Support
+Access,access audit failure,Desktop Support
+Security,suspicious ics alert,Security Team
+Hardware,laptop screen ghost image,Desktop Support
+Security,suspicious ot device alert,Security Team
+Hardware,laptop screen yellow tint,Desktop Support
+Access,access deny custom policy,Desktop Support
+Hardware,external ssd overheat,Desktop Support
+Access,role - base access error,Desktop Support
+Software,software update loop,Application Support
+Software,application configuration mismatch,Application Support
+Security,suspicious saas login,Security Team
+Access,privilege escalation block,Desktop Support
+Security,security patch miss,Security Team
+Security,suspicious file download,Security Team
+Security,endpoint compliant,Security Team
+Network,bandwidth exceed,Network Team
+Network,network authentication failure,Network Team
+Hardware,overheat gpu,Desktop Support
+Network,gateway timeout,Network Team
+Hardware,laptop will n’t power,Desktop Support
+Software,application crash vm restore,Application Support
+Access,access deny proxy,Desktop Support
+Access,access deny router,Desktop Support
+Hardware,laptop cmos battery failure,Desktop Support
+Hardware,laptop battery swell,Desktop Support
+Software,application crash logout,Application Support
+Software,application crash exit,Application Support
+Hardware,cd / dvd drive working,Desktop Support
+Software,application crash import,Application Support
+Security,suspicious traffic tunneling,Security Team
+Software,email client sync,Application Support
+Access,group membership problem,Desktop Support
+Hardware,speaker / audio failure,Desktop Support
+Security,weak password detect,Security Team
+Security,suspicious registry change,Security Team
+Hardware,laptop screen black screen,Desktop Support
+Security,malicious macro detect,Security Team
+Access,password reset,Desktop Support
+Access,api key expire,Desktop Support
+Security,suspicious iso violation,Security Team
+Security,keylogger detect,Security Team
+Software,ui responsive,Application Support
+Network,network ssl vpn failure,Network Team
+Software,software installation fail,Application Support
+Software,unrecognized file type,Application Support
+Software,application crash vm deployment,Application Support
+Software,database connection error,Application Support
+Access,access deny gdpr policy,Desktop Support
+Security,suspicious api token use,Security Team
+Network,network dhcp server,Network Team
+Hardware,laptop screen purple tint,Desktop Support
+Access,biometric login fail,Desktop Support
+Network,network mtu mismatch,Network Team
+Network,network hub failure,Network Team
+Access,access monitoring disable,Desktop Support
+Access,badge / physical access deny,Desktop Support
+Security,suspicious endpoint alert,Security Team
+Access,directory sync error,Desktop Support
+Software,session timeout,Application Support
+Hardware,printer ink cartridge error,Desktop Support
+Hardware,battery charging,Desktop Support
+Security,suspicious siem alert,Security Team
+Software,configuration file miss,Application Support
+Access,access policy violation,Desktop Support
+Hardware,laptop screen pink tint,Desktop Support
+Access,ldap authentication fail,Desktop Support
+Network,network duplex mismatch,Network Team
+Security,suspicious privilege misuse,Security Team
+Access,smart card recognize,Desktop Support
+Network,network ids alert,Network Team
+Network,network syslog server,Network Team
+Software,browser crash,Application Support
+Network,voip call drop,Network Team
+Access,access deny gateway,Desktop Support
+Network,network collision detect,Network Team
+Hardware,laptop screen horizontal line,Desktop Support
+Network,ssid visible,Network Team
+Access,access deny firewall,Desktop Support
+Software,cloud sync failure,Application Support
+Access,guest account disable,Desktop Support
+Network,network unauthorized access,Network Team
+Network,internet outage,Network Team
+Access,license expire,Desktop Support
+Network,network split horizon error,Network Team
+Security,suspicious arp spoof,Security Team
+Network,network static route error,Network Team
+Security,data breach incident,Security Team
+Hardware,usb hub recognize,Desktop Support
+Security,trojan detect,Security Team
+Software,patch conflict,Application Support
+Security,unauthorized api call,Security Team
+Network,cloud service unreachable,Network Team
+Software,service start,Application Support
+Network,port block,Network Team
+Hardware,laptop screen blue tint,Desktop Support
+Software,application crash uninstall,Application Support
+Software,corrupt installation package,Application Support
+Software,antivirus updating,Application Support
+Access,login issue,Desktop Support
+Network,qos misconfigured,Network Team
+Hardware,peripheral compatibility issue,Desktop Support
+Security,compromise credential,Security Team
+Network,network cable damage,Network Team
+Access,access deny application,Desktop Support
+Security,unauthorized usb access,Security Team
+Hardware,laptop screen vertical line,Desktop Support
+Hardware,laptop screen white screen,Desktop Support
+Access,access deny misconfiguration,Desktop Support
+Network,cable unplug,Network Team
+Security,suspicious vm activity,Security Team
+Software,application crash install,Application Support
+Hardware,fan noise issue,Desktop Support
+Network,network packet sniffing detect,Network Team
+Access,access deny hipaa policy,Desktop Support
+Access,access deny pci policy,Desktop Support
+Security,suspicious dns poisoning,Security Team
+Access,sso login failure,Desktop Support
+Network,network firewall overload,Network Team
+Access,access deny network policy,Desktop Support
+Software,cache corruption,Application Support
+Access,access deny cis policy,Desktop Support
+Hardware,laptop camera blurry,Desktop Support
+Software,application registry corruption,Application Support
+Access,access deny abac policy,Desktop Support
+Hardware,blue screen hardware fault,Desktop Support
+Security,suspicious man - in - the - middle attack,Security Team
+Network,network policy violation,Network Team
+Access,admin right request,Desktop Support
+Security,suspicious rat detect,Security Team
+Access,access deny rbac policy,Desktop Support
+Network,network rip misconfigured,Network Team
+Access,access deny mobile device policy,Desktop Support
+Hardware,laptop screen green tint,Desktop Support
+Access,share folder accessible,Desktop Support
+Security,suspicious email attachment,Security Team
+Security,suspicious port knock,Security Team
+Software,application crash load,Application Support
+Hardware,dock station issue,Desktop Support
+Software,application crash macro,Application Support
+Access,access deny browser policy,Desktop Support
+Access,access deny certificate policy,Desktop Support
+Network,network congestion,Network Team
+Network,network acl blocking,Network Team
+Software,application crash container start,Application Support
+Access,access deny temporary restriction,Desktop Support
+Access,access deny sox policy,Desktop Support
+Access,multi - factor authentication failure,Desktop Support
+Software,application crash save,Application Support
+Access,account provision error,Desktop Support
+Access,temporary access request,Desktop Support
+Hardware,laptop screen refresh rate issue,Desktop Support
+Access,access deny os policy,Desktop Support
+Network,bgp misconfiguration,Network Team
+Software,application crash vm shutdown,Application Support
+Access,access deny conditional access,Desktop Support
+Software,virtual machine crash,Application Support
+Hardware,laptop keyboard backlight failure,Desktop Support
+Hardware,laptop screen driver miss,Desktop Support
+Hardware,printer issue,Desktop Support
+Network,network ip address error,Network Team
+Network,network nat misconfigured,Network Team
+Access,access deny soc policy,Desktop Support
+Software,script runtime error,Application Support
+Software,application crash deploy,Application Support
+Hardware,laptop touch screen working,Desktop Support
+Software,application crash plugin,Application Support
+Hardware,motherboard capacitor blow,Desktop Support
+Hardware,laptop screen grayscale issue,Desktop Support
+Security,suspicious custom policy violation,Security Team
+Network,router reboot require,Network Team
+Software,application crash analytic,Application Support
+Access,access deny regulatory policy,Desktop Support
+Software,macro execution error,Application Support
+Security,suspicious cookie theft,Security Team
+Software,application crash script,Application Support
+Hardware,external gpu detect,Desktop Support
+Security,privilege escalation attempt,Security Team
+Security,suspicious audit log tampering,Security Team
+Network,rout loop,Network Team
+Access,access deny contractor policy,Desktop Support
+Security,suspicious dns hijack,Security Team
+Security,certificate expire,Security Team
+Access,access deny system error,Desktop Support
+Access,cloud account suspend,Desktop Support
+Access,token expire,Desktop Support
+Software,application freeze startup,Application Support
+Network,arp conflict,Network Team
+Software,spreadsheet formula error,Application Support
+Network,network misroute traffic,Network Team
+Security,suspicious schedule task,Security Team
+Hardware,laptop screen cable loose,Desktop Support
+Access,vpn login deny,Desktop Support
+Network,network configuration drift,Network Team
+Hardware,laptop screen connector failure,Desktop Support
+Software,application crash login,Application Support
+Network,network loop detect,Network Team
+Access,temporary password expire,Desktop Support
+Software,software dependency miss,Application Support
+Software,application crash library,Application Support
+Security,cross - site scripting detect,Security Team
+Network,network arp poisoning,Network Team
+Hardware,scanner calibration issue,Desktop Support
+Access,access deny saas provider,Desktop Support
+Security,phishe attempt report,Security Team
+Network,switch port failure,Network Team
+Network,network driver outdate,Network Team
+Software,registry error,Application Support
+Security,ddos attack detect,Security Team
+Network,network spoof attempt,Network Team
+Network,isp outage,Network Team
+Software,plugin loading,Application Support
+Security,suspicious compliance violation,Security Team
+Network,network asymmetric routing,Network Team
+Security,ransomware infection,Security Team
+Hardware,laptop screen resolution error,Desktop Support
+Software,application crash restore,Application Support
+Access,account lockout,Desktop Support
+Network,network gre tunnel failure,Network Team
+Software,application crash compile,Application Support
+Security,suspicious third - party compromise,Security Team
+Network,network ipsec tunnel failure,Network Team
+Access,access deny compliance policy,Desktop Support
+Network,network speed slow,Network Team
+Hardware,laptop ram slot failure,Desktop Support
+Hardware,laptop screen flickering,Desktop Support
+Access,access deny endpoint policy,Desktop Support
+Software,file format support,Application Support
+Network,network alert storm,Network Team
+Software,application respond,Application Support
+Hardware,break hinge,Desktop Support
+Software,application crash vm migration,Application Support
+Hardware,laptop bio corrupt,Desktop Support
+Network,network unauthorized device detect,Network Team
+Access,access deny server,Desktop Support
+Network,dhcp failure,Network Team
+Security,botnet activity,Security Team
+Hardware,desktop will n’t boot,Desktop Support
+Network,vpn certificate expire,Network Team
+Hardware,monitor flickering,Desktop Support
+Software,driver conflict,Application Support
+Security,suspicious admin activity,Security Team
+Access,access deny vpn policy,Desktop Support
+Hardware,motherboard failure,Desktop Support
+Network,network bridge failure,Network Team
+Security,suspicious mac spoof,Security Team
+Network,dns resolution problem,Network Team
+Software,application cpu overload,Application Support
+Hardware,laptop screen dim,Desktop Support
+Access,access deny cloud service,Desktop Support
+Network,ethernet port disable,Network Team
+Hardware,tablet screen crack,Desktop Support
+Access,access delegation error,Desktop Support
+Software,application crash debug,Application Support
+Software,file corruption,Application Support
+Security,suspicious login location,Security Team
+Hardware,printer paper jam,Desktop Support
+Network,network monitor tool failure,Network Team
+Hardware,projector bulb failure,Desktop Support
+Security,suspicious powershell script,Security Team
+Security,suspicious pci violation,Security Team
+Network,proxy authentication error,Network Team
+Software,application crash test,Application Support
+Software,application crash disconnect,Application Support
+Hardware,laptop gpu detect,Desktop Support
+Network,network ips alert,Network Team
+Software,license issue,Application Support
+Access,access deny encryption policy,Desktop Support
+Security,zero - day exploit,Security Team
+Network,broadcast storm,Network Team
+Security,suspicious memory dump,Security Team
+Network,bridge mode error,Network Team
+Hardware,mouse issue,Desktop Support
+Network,network pat misconfigured,Network Team
+Software,software timeout,Application Support
+Software,application crash run,Application Support
+Hardware,keyboard key stick,Desktop Support
+Network,network dns server,Network Team
+Hardware,scanner detect,Desktop Support
+Security,firewall intrusion alert,Security Team
+Security,suspicious cloud login,Security Team
+Hardware,laptop fan noise,Desktop Support
+Software,memory leak detect,Application Support
+Hardware,external hdd mount,Desktop Support
+Network,vpn connection failure,Network Team
+Hardware,laptop microphone working,Desktop Support
+Access,inactive account,Desktop Support
+Security,suspicious supply chain attack,Security Team
+Security,suspicious sox violation,Security Team
+Hardware,laptop speaker distortion,Desktop Support
+Network,network mpls misconfigure,Network Team
+Security,suspicious scada alert,Security Team
+Access,account disabled policy,Desktop Support
+Network,duplicate ip detect,Network Team
+Hardware,laptop screen line,Desktop Support
+Security,suspicious contractor compromise,Security Team
+Network,captive portal issue,Network Team
+Software,unsupported operating system version,Application Support
+Security,suspicious cis violation,Security Team
+Software,application deadlock,Application Support
+Network,network eigrp misconfigured,Network Team
+Hardware,ram failure,Desktop Support
+Network,network jitter,Network Team
+Network,network port scanning detect,Network Team
+Software,application startup failure,Application Support
+Software,background process stick,Application Support
+Security,sql injection attempt,Security Team
+Hardware,laptop screen brightness issue,Desktop Support
+Security,email spoofing detect,Security Team
+Hardware,overheat cpu,Desktop Support
+Network,latency spike,Network Team
+Software,application crash update,Application Support
+Security,suspicious hypervisor activity,Security Team
+Software,version incompatibility,Application Support
+Security,suspicious network scan,Security Team
+Network,network vlan misconfigure,Network Team
+Hardware,laptop trackpad jitter,Desktop Support
+Hardware,laptop screen invert color,Desktop Support
+Hardware,mouse double - click issue,Desktop Support
+Hardware,power supply failure,Desktop Support
+Security,cloud misconfiguration,Security Team
+Access,access control list misconfigure,Desktop Support
+Security,suspicious hipaa violation,Security Team
+Software,application crash service call,Application Support
+Security,suspicious vendor compromise,Security Team
+Security,unpatched vulnerability,Security Team
+Access,access deny maintenance window,Desktop Support
+Security,suspicious exfiltration detect,Security Team
+Access,certificate login failure,Desktop Support
+Network,network ospf misconfigured,Network Team
+Access,access timeout,Desktop Support
+Security,suspicious ip spoof,Security Team
+Security,suspicious gdpr violation,Security Team
+Hardware,graphic card overheat,Desktop Support
+Hardware,laptop screen dead pixel,Desktop Support
+Hardware,hard drive crash,Desktop Support
+Security,suspicious activity detect,Security Team
+Hardware,laptop motherboard short circuit,Desktop Support
+Security,suspicious driver installation,Security Team
+Hardware,laptop screen crack,Desktop Support
+Security,usb device block,Security Team
+Network,weak signal strength,Network Team
+Access,unauthorized login attempt,Desktop Support
+Security,suspicious service startup,Security Team
+Software,update rollback issue,Application Support
+Hardware,laptop overheat shutdown,Desktop Support
+Network,network ntp server unreachable,Network Team
+Network,network compliance violation,Network Team
+Network,network segmentation error,Network Team
+Software,application crash extension,Application Support
+Software,authentication error,Application Support
+Software,ide opening,Application Support
+Network,network default gateway miss,Network Team
+Access,access deny nist policy,Desktop Support
+Software,application crash,Application Support
+Security,expose database,Security Team
+Access,access approval pende,Desktop Support
+Hardware,laptop screen frozen image,Desktop Support
+Software,application crash workflow,Application Support
+Software,application crash backup,Application Support
+Access,kerberos ticket expire,Desktop Support
+Hardware,docking station recognize,Desktop Support
+Security,suspicious packet injection,Security Team
+Hardware,monitor dead pixel,Desktop Support
+Access,access deny device compliance,Desktop Support
+Access,access deny vendor policy,Desktop Support
+Security,suspicious backdoor detect,Security Team
+Hardware,bio error,Desktop Support
+Software,application license expire,Application Support
+Hardware,laptop screen burn - in,Desktop Support
+Software,application crash report,Application Support
+Hardware,touchpad respond,Desktop Support
+Software,application crash visualization,Application Support
+Hardware,hardware driver miss,Desktop Support
+Access,access deny byod policy,Desktop Support
+Software,patch update fail,Application Support
+Access,access deny token policy,Desktop Support
+Access,access deny dlp policy,Desktop Support
+Software,application crash vm boot,Application Support
+Security,suspicious kernel activity,Security Team
+Network,unstable wireless connection,Network Team
+Access,email account disable,Desktop Support
+Access,access deny geolocation policy,Desktop Support
+Access,access revocation pende,Desktop Support
+Access,access deny mfa policy,Desktop Support
+Software,application crash connect,Application Support
+Hardware,laptop screen backlight failure,Desktop Support
+Software,container deployment error,Application Support
+Hardware,laptop screen ghost,Desktop Support
+Security,ransomware alert,Security Team
+Hardware,ram issue,Desktop Support
+Software,software update failure,Application Support
+Network,dns resolution failure,Network Team
+Security,malware detect,Security Team
+Hardware,overheat device,Desktop Support
+Network,vpn tunnel drop,Network Team
+Network,switch port,Network Team
+Hardware,keyboard respond,Desktop Support
+Access,password reset failure,Desktop Support
+Access,single sign - on error,Desktop Support
+Software,license expire,Application Support
+Access,mfa working,Desktop Support
+Network,slow network speed,Network Team
+Security,datum exfiltration attempt,Security Team
+Hardware,hard drive failure,Desktop Support
+Software,api timeout,Application Support
+Security,brute force attack,Security Team
+Access,vpn access issue,Desktop Support
+Security,phishe email detect,Security Team
+Category,description,Assigned_Team
+Hardware,webcam recognize,Desktop Support
+Network,wi - fi authentication failure,Network Team
+Software,cloud storage sync error,Application Support
+Access,token validation error,Desktop Support
+Hardware,battery drain fast,Desktop Support
+Access,role permission mismatch,Desktop Support
+Network,proxy misconfiguration,Network Team
+Hardware,dock station failure,Desktop Support
+Hardware,printer detect,Desktop Support
+Network,dhcp server unresponsive,Network Team
+Security,certificate spoof,Security Team
+Security,zero - day exploit detect,Security Team
+Access,privileged access misuse,Desktop Support
+Software,report generation failure,Application Support
+Access,directory sync failure,Desktop Support
+Access,guest account expire,Desktop Support
+Software,broken ui update,Application Support
+Security,insider threat alert,Security Team
+Network,bgp route flapping,Network Team
+Hardware,post - maintenance report : blue screen hardware fault observe,Desktop Support
+Access,post - maintenance report : access deny auditor policy observe,Desktop Support
+Software,system flag application crash logout diagnostic initiate,Application Support
+Security,remote user experience email spoofing detect vpn session active,Security Team
+Security,incident log : suspicious endpoint alert await assignment,Security Team
+Security,third - party vendor notify suspicious gdpr violation,Security Team
+Security,post - maintenance report : suspicious port knock observe,Security Team
+Access,ticket raise access deny partner policy team notify,Desktop Support
+Access,access deny gateway detect workstation team dispatch,Desktop Support
+Network,user submit ticket network configuration drift via self - service portal,Network Team
+Security,sla breach risk due malicious macro detect escalate,Security Team
+Software,post - maintenance report : application startup failure observe,Application Support
+Hardware,system flag laptop screen color distortion diagnostic initiate,Desktop Support
+Software,third - party vendor notify application crash vm snapshot,Application Support
+Hardware,multiple user affect laptop screen white screen priority raise,Desktop Support
+Software,on - site technician assign application crash vm migration,Application Support
+Software,multiple user affect ide opening priority raise,Application Support
+Security,user unable proceed due suspicious cookie theft,Security Team
+Hardware,system flag docking station failure diagnostic initiate,Desktop Support
+Security,sla breach risk due keylogger detect escalate,Security Team
+Access,access deny system error issue escalate department head,Desktop Support
+Network,remote user experience dns resolution failure vpn session active,Network Team
+Software,user unable proceed due container deployment error,Application Support
+Software,system flag application crash export diagnostic initiate,Application Support
+Hardware,automate alert trigger laptop overheat shutdown,Desktop Support
+Security,on - site technician assign cross - site scripting detect,Security Team
+Access,access timeout impact business operation,Desktop Support
+Security,system flag suspicious login location diagnostic initiate,Security Team
+Security,incident log : suspicious rat detect await assignment,Security Team
+Hardware,third - party vendor notify laptop will not power,Desktop Support
+Network,system flag dns resolution failure diagnostic initiate,Network Team
+Security,ticket raise suspicious process execution team notify,Security Team
+Security,sla breach risk due botnet activity escalate,Security Team
+Network,sla breach risk due proxy server misconfiguration escalate,Network Team
+Network,vpn tunnel drop issue escalate department head,Network Team
+Network,sla breach risk due network subnet mask error escalate,Network Team
+Hardware,help desk receive complaint laptop screen cable loose review,Desktop Support
+Network,user unable proceed due network default gateway miss,Network Team
+Hardware,laptop screen ghost image impact business operation,Desktop Support
+Network,system flag network ntp server unreachable diagnostic initiate,Network Team
+Security,unauthorized api call detect workstation team dispatch,Security Team
+Hardware,bios error detect workstation team dispatch,Desktop Support
+Access,login issue confirm system scan,Desktop Support
+Software,help desk receive complaint application crash visualization review,Application Support
+Software,remote user experience api call failure vpn session active,Application Support
+Software,department manager flag unsupported operating system version critical,Application Support
+Network,user unable proceed due switch port,Network Team
+Hardware,laptop screen line impact business operation,Desktop Support
+Hardware,help desk receive complaint bio error review,Desktop Support
+Hardware,remote user experience laptop screen orange tint vpn session active,Desktop Support
+Software,post - maintenance report : software update failure observe,Application Support
+Access,access monitoring disable confirm system scan,Desktop Support
+Security,incident log : suspicious vm activity await assignment,Security Team
+Hardware,printer paper jam detect workstation team dispatch,Desktop Support
+Hardware,third - party vendor notify printer detect,Desktop Support
+Security,user unable proceed due zero - day exploit detect,Security Team
+Software,automate alert trigger application crash uninstall,Application Support
+Software,remote user experience application crash update vpn session active,Application Support
+Security,sla breach risk due suspicious iso violation escalate,Security Team
+Access,ticket raise account provision error team notify,Desktop Support
+Network,user submit ticket load balancer misconfigure via self - service portal,Network Team
+Software,help desk receive complaint application crash library review,Application Support
+Access,user submit ticket access deny firewall via self - service portal,Desktop Support
+Hardware,user submit ticket fan noise issue via self - service portal,Desktop Support
+Software,sla breach risk due application crash sync escalate,Application Support
+Hardware,post - maintenance report : laptop screen line observe,Desktop Support
+Network,user unable proceed due network speed slow,Network Team
+Software,third - party vendor notify patch update fail,Application Support
+Network,sla breach risk due qos misconfigured escalate,Network Team
+Hardware,user unable proceed due overheat device,Desktop Support
+Software,system flag collaboration tool login failure diagnostic initiate,Application Support
+Security,on - site technician assign suspicious session hijack,Security Team
+Hardware,multiple user affect motherboard capacitor blow priority raise,Desktop Support
+Security,compromise credential issue escalate department head,Security Team
+Software,incident log : authentication error await assignment,Application Support
+Hardware,desktop will not boot issue escalate department head,Desktop Support
+Software,multiple user affect file format support priority raise,Application Support
+Security,incident log : suspicious mobile device alert await assignment,Security Team
+Access,user unable proceed due access deny casb policy,Desktop Support
+Network,captive portal issue detect workstation team dispatch,Network Team
+Software,multiple user affect mobile app instal priority raise,Application Support
+Network,on - site technician assign network collision detect,Network Team
+Software,user submit ticket application license expire via self - service portal,Application Support
+Access,remote user experience share drive permission issue vpn session active,Desktop Support
+Software,memory leak detect issue escalate department head,Application Support
+Security,recur suspicious registry change report week,Security Team
+Access,sla breach risk due share folder accessible escalate,Desktop Support
+Hardware,multiple user affect laptop screen red tint priority raise,Desktop Support
+Hardware,post - maintenance report : hard drive crash observe,Desktop Support
+Software,on - site technician assign application crash extension,Application Support
+Security,suspicious schedule task impact business operation,Security Team
+Software,software timeout confirm system scan,Application Support
+Access,post - maintenance report : privileged access misuse observe,Desktop Support
+Hardware,user unable proceed due laptop screen driver miss,Desktop Support
+Security,automate alert trigger suspicious backdoor detect,Security Team
+Access,remote user experience access role mismatch vpn session active,Desktop Support
+Network,incident log : gateway timeout await assignment,Network Team
+Network,department manager flag network misroute traffic critical,Network Team
+Network,remote user experience network dhcp server vpn session active,Network Team
+Access,sla breach risk due access deny geolocation policy escalate,Desktop Support
+Access,automate alert trigger access deny cis policy,Desktop Support
+Software,incident log : patch update fail await assignment,Application Support
+Security,suspicious kernel activity detect workstation team dispatch,Security Team
+Network,dns resolution failure impact business operation,Network Team
+Hardware,multiple user affect scanner calibration issue priority raise,Desktop Support
+Security,automate alert trigger unauthorized access attempt,Security Team
+Network,incident log : network unauthorized access await assignment,Network Team
+Security,system flag suspicious soc alert diagnostic initiate,Security Team
+Network,incident log : network driver outdate await assignment,Network Team
+Network,rout loop impact business operation,Network Team
+Software,user unable proceed due plugin loading,Application Support
+Network,multiple user affect network nat misconfigure priority raise,Network Team
+Access,access control list misconfigure impact business operation,Desktop Support
+Hardware,on - site technician assign laptop speaker distortion,Desktop Support
+Network,network ip address error issue escalate department head,Network Team
+Software,post - maintenance report : antivirus update observe,Application Support
+Network,automate alert trigger network ntp server unreachable,Network Team
+Software,user unable proceed due update rollback issue,Application Support
+Access,remote user experience access deny contractor policy vpn session active,Desktop Support
+Software,application crash vm snapshot confirm system scan,Application Support
+Access,incident log : access policy violation await assignment,Desktop Support
+Access,department manager flag access deny mfa policy critical,Desktop Support
+Software,post - maintenance report : ide opening observe,Application Support
+Security,suspicious activity detect issue escalate department head,Security Team
+Security,third - party vendor notify malware detect,Security Team
+Software,sla breach risk due corrupted installation package escalate,Application Support
+Hardware,on - site technician assign laptop overheat shutdown,Desktop Support
+Network,department manager flag network ssl vpn failure critical,Network Team
+Access,recur license expired report week,Desktop Support
+Access,license expire detect workstation team dispatch,Desktop Support
+Access,automate alert trigger access deny firewall,Desktop Support
+Hardware,system flag power supply failure diagnostic initiate,Desktop Support
+Security,user unable proceed due firewall intrusion alert,Security Team
+Software,recur api call failure report week,Application Support
+Software,third - party vendor notify application license expire,Application Support
+Access,sla breach risk due access audit failure escalate,Desktop Support
+Network,sla breach risk due ip conflict escalate,Network Team
+Security,recur suspicious kernel activity report week,Security Team
+Hardware,automate alert trigger laptop screen white screen,Desktop Support
+Access,on - site technician assign access deny vpn policy,Desktop Support
+Software,recur registry error report week,Application Support
+Software,remote user experience application crash plugin vpn session active,Application Support
+Security,user submit ticket suspicious packet injection via self - service portal,Security Team
+Hardware,cd / dvd drive working confirm system scan,Desktop Support
+Access,ticket raise access deny hipaa policy team notify,Desktop Support
+Software,sla breach risk due application memory overflow escalate,Application Support
+Hardware,desktop will not boot impact business operation,Desktop Support
+Hardware,automate alert trigger peripheral compatibility issue,Desktop Support
+Security,suspicious partner compromise impact business operation,Security Team
+Access,sla breach risk due password reset escalate,Desktop Support
+Hardware,department manager flag laptop screen refresh rate issue critical,Desktop Support
+Security,sla breach risk due phishing attempt report escalate,Security Team
+Hardware,multiple user affect laptop screen horizontal line priority raise,Desktop Support
+Hardware,laptop gpu detect impact business operation,Desktop Support
+Software,third - party vendor notify application crash connect,Application Support
+Access,vpn login deny confirm system scan,Desktop Support
+Network,network ddo detect confirm system scan,Network Team
+Security,recur datum exfiltration attempt report week,Security Team
+Access,multiple user affect access deny auditor policy priority raise,Desktop Support
+Security,suspicious outbound traffic confirm system scan,Security Team
+Security,botnet activity confirm system scan,Security Team
+Software,cache corruption impact business operation,Application Support
+Access,recur smart card recognize report week,Desktop Support
+Security,automate alert trigger suspicious packet injection,Security Team
+Hardware,multiple user affect laptop screen line priority raise,Desktop Support
+Software,recur application crash library report week,Application Support
+Hardware,on - site technician assign laptop screen hinge break,Desktop Support
+Security,help desk receive complaint unauthorized access attempt review,Security Team
+Security,remote user experience datum exfiltration attempt vpn session active,Security Team
+Network,network rip misconfigured impacting business operation,Network Team
+Hardware,user unable proceed due blue screen hardware fault,Desktop Support
+Security,third - party vendor notify suspicious powershell script,Security Team
+Access,on - site technician assign access deny network policy,Desktop Support
+Network,on - site technician assign duplicate ip detect,Network Team
+Access,third - party vendor notify access deny soc policy,Desktop Support
+Security,third - party vendor notify suspicious hipaa violation,Security Team
+Access,third - party vendor notify access deny vpn policy,Desktop Support
+Access,sla breach risk due access deny dlp policy escalate,Desktop Support
+Network,post - maintenance report : network unauthorized access observe,Network Team
+Network,help desk receive complaint network cable damage review,Network Team
+Network,network ddo detect detect workstation team dispatch,Network Team
+Software,user submit ticket application crash backup via self - service portal,Application Support
+Hardware,post - maintenance report : laptop keyboard backlight failure observe,Desktop Support
+Network,ticket raise network driver outdate team notify,Network Team
+Software,third - party vendor notify application startup failure,Application Support
+Access,user unable proceed due access deny outage,Desktop Support
+Network,user submit ticket network static route error via self - service portal,Network Team
+Access,access deny rbac policy impact business operation,Desktop Support
+Security,post - maintenance report : suspicious nist violation observe,Security Team
+Access,post - maintenance report : access deny contractor policy observe,Desktop Support
+Software,department manager flag application crash vm deployment critical,Application Support
+Security,unauthorized usb access impact business operation,Security Team
+Access,recur access deny guest policy report week,Desktop Support
+Security,on - site technician assign suspicious memory dump,Security Team
+Hardware,department manager flag tablet screen crack critical,Desktop Support
+Network,sla breach risk due network dns server escalate,Network Team
+Hardware,automate alert trigger laptop screen ghost,Desktop Support
+Software,post - maintenance report : patch conflict observe,Application Support
+Hardware,multiple user affect overheat device priority raise,Desktop Support
+Security,system flag suspicious dns poisoning diagnostic initiate,Security Team
+Software,multiple user affect configuration file miss priority raise,Application Support
+Network,post - maintenance report : cloud service unreachable observe,Network Team
+Security,user unable proceed due expose database,Security Team
+Software,help desk receive complaint session timeout review,Application Support
+Network,incident log : network default gateway miss await assignment,Network Team
+Hardware,break hinge impact business operation,Desktop Support
+Hardware,recur laptop screen backlight failure report week,Desktop Support
+Software,browser crashing issue escalate department head,Application Support
+Hardware,projector bulb failure detect workstation team dispatch,Desktop Support
+Network,automate alert trigger network asymmetric routing,Network Team
+Security,multiple user affect suspicious api token use priority raise,Security Team
+Network,incident log : switch port await assignment,Network Team
+Software,user submit ticket application crash service call via self - service portal,Application Support
+Network,remote user experience network collision detect vpn session active,Network Team
+Software,system flag application registry corruption diagnostic initiate,Application Support
+Software,on - site technician assign application configuration mismatch,Application Support
+Software,spreadsheet formula error impact business operation,Application Support
+Network,third - party vendor notify network vlan misconfigure,Network Team
+Network,multiple user affect network alert storm priority raise,Network Team
+Hardware,laptop screen green tint detect workstation team dispatch,Desktop Support
+Hardware,graphic card overheat issue escalate department head,Desktop Support
+Software,post - maintenance report : plugin loading observe,Application Support
+Access,department manager flag access role mismatch critical,Desktop Support
+Security,user submit ticket malware alert via self - service portal,Security Team
+Hardware,laptop screen green tint confirm system scan,Desktop Support
+Access,automate alert trigger access deny partner policy,Desktop Support
+Software,incident log : application deadlock await assignment,Application Support
+Access,incident log : privileged access misuse await assignment,Desktop Support
+Hardware,scanner calibration issue impact business operation,Desktop Support
+Hardware,on - site technician assign laptop screen driver miss,Desktop Support
+Network,ticket raise rout loop team notify,Network Team
+Security,automate alert trigger malware alert,Security Team
+Software,on - site technician assign application crash install,Application Support
+Hardware,on - site technician assign laptop screen purple tint,Desktop Support
+Security,department manager flag suspicious schedule task critical,Security Team
+Access,multiple user affect account lockout priority raise,Desktop Support
+Hardware,webcam malfunction detect workstation team dispatch,Desktop Support
+Security,user unable proceed due unauthorized usb access,Security Team
+Network,ticket raise network unauthorized access team notify,Network Team
+Hardware,post - maintenance report : laptop will not power observe,Desktop Support
+Network,incident log : network mtu mismatch await assignment,Network Team
+Software,incident log : application crash uninstall await assignment,Application Support
+Access,recur access deny system error report week,Desktop Support
+Network,network dual - stack error impact business operation,Network Team
+Hardware,projector bulb failure impact business operation,Desktop Support
+Access,remote user experience access deny firewall vpn session active,Desktop Support
+Software,application crash vm snapshot impact business operation,Application Support
+Hardware,ram failure impact business operation,Desktop Support
+Security,incident log : suspicious dll injection await assignment,Security Team
+Hardware,laptop screen red tint impact business operation,Desktop Support
+Network,recur network ntp server unreachable report week,Network Team
+Software,user submit ticket application crash dashboard via self - service portal,Application Support
+Security,post - maintenance report : suspicious dns hijack observe,Security Team
+Access,sla breach risk due remote desktop login failure escalate,Desktop Support
+Access,remote user experience access deny endpoint policy vpn session active,Desktop Support
+Software,third - party vendor notify application crash visualization,Application Support
+Network,help desk receive complaint network split horizon error review,Network Team
+Network,system flag proxy authentication error diagnostic initiate,Network Team
+Hardware,user submit ticket laptop trackpad jitter via self - service portal,Desktop Support
+Network,automate alert trigger network driver outdate,Network Team
+Hardware,incident log : laptop screen vertical line await assignment,Desktop Support
+Access,user unable proceed due vpn login deny,Desktop Support
+Security,sla breach risk due suspicious sox violation escalate,Security Team
+Network,incident log : network compliance violation await assignment,Network Team
+Software,recur application crash service call report week,Application Support
+Software,department manager flag application crash save critical,Application Support
+Security,department manager flag suspicious api token use critical,Security Team
+Access,multiple user affect inactive account priority raise,Desktop Support
+Security,suspicious activity detect impact business operation,Security Team
+Software,user submit ticket browser crash via self - service portal,Application Support
+Security,on - site technician assign suspicious dns hijack,Security Team
+Access,post - maintenance report : single sign - on error observe,Desktop Support
+Software,incident log : software installation fail await assignment,Application Support
+Network,department manager flag vpn certificate expire critical,Network Team
+Access,post - maintenance report : access deny application observe,Desktop Support
+Network,network ipsec tunnel failure issue escalate department head,Network Team
+Software,automate alert trigger application crash api call,Application Support
+Network,sla breach risk due switch port failure escalate,Network Team
+Hardware,remote user experience speaker / audio failure vpn session active,Desktop Support
+Access,incident log : single sign - on error await assignment,Desktop Support
+Network,automate alert trigger wi - fi connectivity issue,Network Team
+Security,help desk receive complaint suspicious process execution review,Security Team
+Network,system flag load balancer misconfigured diagnostic initiate,Network Team
+Security,user unable proceed due data exfiltration attempt,Security Team
+Access,remote user experience access deny gdpr policy vpn session active,Desktop Support
+Network,network bridge failure issue escalate department head,Network Team
+Security,suspicious pci violation confirm system scan,Security Team
+Hardware,department manager flag keyboard respond critical,Desktop Support
+Network,sla breach risk due dhcp failure escalate,Network Team
+Hardware,ticket raise laptop screen black screen team notify,Desktop Support
+Access,incident log : vpn access issue await assignment,Desktop Support
+Security,cloud misconfiguration confirm system scan,Security Team
+Software,incident log : application crash visualization await assignment,Application Support
+Network,multiple user affect network misroute traffic priority raise,Network Team
+Network,multiple user affect broadcast storm priority raise,Network Team
+Hardware,third - party vendor notify laptop bio corrupt,Desktop Support
+Software,ticket raise application crash load team notify,Application Support
+Security,suspicious c2 server detect confirm system scan,Security Team
+Network,ticket raise access point team notify,Network Team
+Hardware,incident log : laptop screen grayscale issue await assignment,Desktop Support
+Hardware,multiple user affect desktop will not boot priority raise,Desktop Support
+Security,department manager flag email spoof detect critical,Security Team
+Network,sla breach risk due unstable wireless connection escalate,Network Team
+Software,multiple user affect memory leak detect priority raise,Application Support
+Software,user unable proceed due application crash import,Application Support
+Software,automate alert trigger script runtime error,Application Support
+Software,application crash api call impact business operation,Application Support
+Hardware,user submit ticket laptop screen brightness issue via self - service portal,Desktop Support
+Software,system flag application crash query diagnostic initiate,Application Support
+Network,automate alert trigger network ipv6 misconfigured,Network Team
+Hardware,remote user experience webcam malfunction vpn session active,Desktop Support
+Network,third - party vendor notify network cable damage,Network Team
+Security,post - maintenance report : malware detect observe,Security Team
+Access,post - maintenance report : access deny password policy observe,Desktop Support
+Hardware,system flag laptop screen crack diagnostic initiate,Desktop Support
+Security,security patch miss confirm system scan,Security Team
+Software,ticket raise application crash framework team notify,Application Support
+Software,recur update rollback issue report week,Application Support
+Hardware,monitor flickering detect workstation team dispatch,Desktop Support
+Network,user unable proceed due network duplex mismatch,Network Team
+Security,recur suspicious memory dump report week,Security Team
+Hardware,headset mic working impact business operation,Desktop Support
+Security,on - site technician assign suspicious iso violation,Security Team
+Network,help desk receive complaint proxy server misconfiguration review,Network Team
+Hardware,user submit ticket laptop screen backlight failure via self - service portal,Desktop Support
+Hardware,recur webcam malfunction report week,Desktop Support
+Network,recur ip conflict report week,Network Team
+Security,suspicious arp spoof impact business operation,Security Team
+Access,user submit ticket access deny router via self - service portal,Desktop Support
+Access,incident log : access deny casb policy awaiting assignment,Desktop Support
+Access,on - site technician assign access deny casb policy,Desktop Support
+Software,operating system error detect workstation team dispatch,Application Support
+Software,user submit ticket software dependency miss via self - service portal,Application Support
+Software,application crash detect workstation team dispatch,Application Support
+Hardware,system flag external gpu detect diagnostic initiate,Desktop Support
+Access,system flag access deny partner policy diagnostic initiate,Desktop Support
+Hardware,post - maintenance report : external ssd overheat observe,Desktop Support
+Software,compiler error impact business operation,Application Support
+Hardware,remote user experience laptop screen refresh rate issue vpn session active,Desktop Support
+Network,automate alert trigger weak signal strength,Network Team
+Network,weak signal strength confirm system scan,Network Team
+Hardware,user submit ticket mouse issue via self - service portal,Desktop Support
+Network,third - party vendor notify dhcp server unresponsive,Network Team
+Hardware,loose cable connection impact business operation,Desktop Support
+Network,recur proxy misconfiguration report week,Network Team
+Software,mobile app instal confirm system scan,Application Support
+Software,user submit ticket application crash connect via self - service portal,Application Support
+Access,user access deny detect workstation team dispatch,Desktop Support
+Software,help desk receive complaint memory leak detect review,Application Support
+Software,incident log : container deployment error await assignment,Application Support
+Access,system flag certificate login failure diagnostic initiate,Desktop Support
+Network,system flag router reboot require diagnostic initiate,Network Team
+Security,third - party vendor notify suspicious cookie theft,Security Team
+Security,system flag suspicious process execution diagnostic initiate,Security Team
+Hardware,department manager flag laptop gpu detect critical,Desktop Support
+Security,malicious macro detect impact business operation,Security Team
+Software,on - site technician assign driver conflict,Application Support
+Software,system flag application crash container start diagnostic initiate,Application Support
+Software,multiple user affect application crash debug priority raise,Application Support
+Network,user submit ticket network ssl vpn failure via self - service portal,Network Team
+Software,automate alert trigger application crash deploy,Application Support
+Security,help desk receive complaint suspicious siem alert review,Security Team
+Software,help desk receive complaint macro execution error review,Application Support
+Hardware,on - site technician assign tablet screen crack,Desktop Support
+Access,access deny vpn policy detect workstation team dispatch,Desktop Support
+Access,remote desktop login failure confirm system scan,Desktop Support
+Access,recur unauthorized login attempt report week,Desktop Support
+Hardware,hardware driver miss impact business operation,Desktop Support
+Security,ticket raise keylogger detect team notify,Security Team
+Hardware,ticket raise mouse issue team notify,Desktop Support
+Hardware,laptop microphone working issue escalate department head,Desktop Support
+Hardware,sla breach risk due laptop screen red tint escalate,Desktop Support
+Software,application crash exit issue escalate department head,Application Support
+Access,user unable proceed due access deny dlp policy,Desktop Support
+Security,recur compromise credential report week,Security Team
+Network,remote user experiencing bandwidth exceed vpn session active,Network Team
+Hardware,laptop screen dim impact business operation,Desktop Support
+Software,sla breach risk due update rollback issue escalate,Application Support
+Software,automate alert trigger application memory overflow,Application Support
+Network,network collision detect confirm system scan,Network Team
+Software,user unable proceed due patch update fail,Application Support
+Hardware,help desk receive complaint keyboard key stick review,Desktop Support
+Software,user unable proceed due application crash container start,Application Support
+Network,recur cloud service unreachable report week,Network Team
+Software,incident log : operate system error await assignment,Application Support
+Hardware,user unable proceed due laptop screen resolution error,Desktop Support
+Security,trojan detect issue escalate department head,Security Team
+Security,ticket raise zero - day exploit detect team notify,Security Team
+Software,session timeout impact business operation,Application Support
+Access,access deny maintenance window issue escalate department head,Desktop Support
+Hardware,sla breach risk due laptop screen refresh rate issue escalate,Desktop Support
+Software,department manager flag application crash dashboard critical,Application Support
+Network,recur network blackhole rout report week,Network Team
+Software,post - maintenance report : application crash build observe,Application Support
+Hardware,automate alert trigger laptop touch screen working,Desktop Support
+Network,on - site technician assign network firewall overload,Network Team
+Network,sla breach risk due router firmware outdate escalate,Network Team
+Software,help desk receive complaint app freezing review,Application Support
+Access,remote user experience access deny api vpn session active,Desktop Support
+Hardware,multiple user affect laptop casing crack priority raise,Desktop Support
+Network,user submit ticket network collision detect via self - service portal,Network Team
+Hardware,help desk receive complaint tablet screen crack review,Desktop Support
+Access,automate alert trigger access deny database,Desktop Support
+Software,post - maintenance report : ui responsive observe,Application Support
+Hardware,sla breach risk due laptop screen brightness issue escalate,Desktop Support
+Network,department manager flag network unauthorized device detect critical,Network Team
+Access,multiple user affect access deny geolocation policy priority raise,Desktop Support
+Software,spreadsheet formula error detect workstation team dispatch,Application Support
+Access,access deny gdpr policy detect workstation team dispatch,Desktop Support
+Hardware,sla breach risk due printer ink cartridge error escalate,Desktop Support
+Hardware,system flag keyboard key stick diagnostic initiate,Desktop Support
+Access,third - party vendor notify privileged access misuse,Desktop Support
+Software,automate alert trigger application crash build,Application Support
+Software,third - party vendor notify application crash update,Application Support
+Network,user submit ticket network hub failure via self - service portal,Network Team
+Network,network packet sniffing detect detect workstation team dispatch,Network Team
+Security,recur keylogger detect report week,Security Team
+Hardware,recur printer issue report week,Desktop Support
+Hardware,remote user experience laptop screen hinge break vpn session active,Desktop Support
+Software,post - maintenance report : application crash vm snapshot observe,Application Support
+Hardware,user submit ticket overheat cpu via self - service portal,Desktop Support
+Security,third - party vendor notify certificate spoof,Security Team
+Software,user unable proceed due application crash module,Application Support
+Hardware,automate alert trigger keyboard respond,Desktop Support
+Security,security patch miss detect workstation team dispatch,Security Team
+Security,suspicious admin activity confirm system scan,Security Team
+Hardware,incident log : monitor dead pixel await assignment,Desktop Support
+Network,department manager flag network jitter critical,Network Team
+Network,help desk receive complaint network collision detect review,Network Team
+Access,access deny certificate policy detect workstation team dispatch,Desktop Support
+Software,user submit ticket application crash install via self - service portal,Application Support
+Network,multiple user affect network jitter priority raise,Network Team
+Hardware,user submit ticket laptop screen pink tint via self - service portal,Desktop Support
+Hardware,user unable proceed due laptop keyboard backlight failure,Desktop Support
+Access,department manager flag access audit failure critical,Desktop Support
+Software,on - site technician assign license expire,Application Support
+Network,sla breach risk due network monitor tool failure escalate,Network Team
+Access,user submit ticket account disabled policy via self - service portal,Desktop Support
+Access,sla breach risk due access policy violation escalate,Desktop Support
+Access,role - base access error detect workstation team dispatch,Desktop Support
+Security,department manager flag malware detect critical,Security Team
+Hardware,system flag laptop screen ghost diagnostic initiate,Desktop Support
+Hardware,help desk receive complaint laptop screen freeze image review,Desktop Support
+Software,unrecognized file type impact business operation,Application Support
+Access,incident log : access deny os policy await assignment,Desktop Support
+Hardware,help desk receive complaint laptop screen ghost image review,Desktop Support
+Security,suspicious policy violation confirm system scan,Security Team
+Hardware,third - party vendor notify laptop screen dead pixel,Desktop Support
+Security,post - maintenance report : brute force attack observe,Security Team
+Network,help desk receive complaint network ip address error review,Network Team
+Access,user submit ticket access deny casb policy via self - service portal,Desktop Support
+Security,user submit ticket suspicious beacon traffic via self - service portal,Security Team
+Software,recur application crash load report week,Application Support
+Security,recur suspicious driver installation report week,Security Team
+Network,network default gateway miss detect workstation team dispatch,Network Team
+Hardware,laptop keyboard backlight failure issue escalate department head,Desktop Support
+Network,department manager flag network duplex mismatch critical,Network Team
+Network,user submit ticket network repeater failure via self - service portal,Network Team
+Software,configuration file miss issue escalate department head,Application Support
+Hardware,system flag battery drain fast diagnostic initiate,Desktop Support
+Security,third - party vendor notify suspicious memory dump,Security Team
+Software,user unable proceed due driver conflict,Application Support
+Access,automate alert trigger temporary password expire,Desktop Support
+Software,slow application performance impact business operation,Application Support
+Security,third - party vendor notify suspicious c2 server detect,Security Team
+Network,user submit ticket network eigrp misconfigure via self - service portal,Network Team
+Network,network ips alert impact business operation,Network Team
+Software,user submit ticket application crash cloud sync via self - service portal,Application Support
+Network,department manager flag cloud service unreachable critical,Network Team
+Security,on - site technician assign suspicious third - party compromise,Security Team
+Security,suspicious vendor compromise impact business operation,Security Team
+Security,recur suspicious network scan report week,Security Team
+Network,department manager flag network id alert critical,Network Team
+Network,incident log : network cable damage await assignment,Network Team
+Security,post - maintenance report : suspicious cis violation observe,Security Team
+Access,badge / physical access deny impact business operation,Desktop Support
+Hardware,post - maintenance report : laptop screen vertical line observe,Desktop Support
+Software,department manager flag application crash vm boot critical,Application Support
+Access,ticket raise access right revoke team notify,Desktop Support
+Network,system flag broadcast storm diagnostic initiate,Network Team
+Access,share folder accessible detect workstation team dispatch,Desktop Support
+Software,ticket raise application crash exit team notify,Application Support
+Software,application crash automation detect workstation team dispatch,Application Support
+Security,user unable proceed due suspicious saas login,Security Team
+Hardware,incident log : laptop screen pink tint awaiting assignment,Desktop Support
+Network,switch port failure issue escalate department head,Network Team
+Network,vpn connection failure impact business operation,Network Team
+Network,help desk receive complaint network dual - stack error review,Network Team
+Software,system flag file format support diagnostic initiate,Application Support
+Hardware,department manager flag laptop screen yellow tint critical,Desktop Support
+Security,endpoint compliant detect workstation team dispatch,Security Team
+Access,ticket raise kerberos ticket expire team notify,Desktop Support
+Hardware,incident log : docking station recognize await assignment,Desktop Support
+Hardware,department manager flag laptop screen dead pixel critical,Desktop Support
+Software,application crash install issue escalate department head,Application Support
+Security,recur phishing attempt report report week,Security Team
+Hardware,system flag ram failure diagnostic initiate,Desktop Support
+Network,multiple user affect arp conflict priority raise,Network Team
+Network,post - maintenance report : network arp poisoning observe,Network Team
+Software,user unable proceed due application crash vm shutdown,Application Support
+Access,help desk receive complaint access deny regulatory policy review,Desktop Support
+Hardware,webcam recognize impact business operation,Desktop Support
+Hardware,department manager flag laptop screen connector failure critical,Desktop Support
+Hardware,user unable proceed due desktop will not boot,Desktop Support
+Network,network compliance violation impact business operation,Network Team
+Software,automate alert trigger software timeout,Application Support
+Access,incident log : access deny proxy await assignment,Desktop Support
+Hardware,third - party vendor notify loose cable connection,Desktop Support
+Access,ticket raise access deny firewall team notify,Desktop Support
+Hardware,department manager flag keyboard key stick critical,Desktop Support
+Software,remote user experience application crash library vpn session active,Application Support
+Security,suspicious dll injection impact business operation,Security Team
+Security,suspicious schedule task detect workstation team dispatch,Security Team
+Network,help desk receive complaint access point misconfigured review,Network Team
+Network,automate alert trigger bgp misconfiguration,Network Team
+Security,sla breach risk due suspicious privilege misuse escalate,Security Team
+Network,network ntp server unreachable detect workstation team dispatch,Network Team
+Hardware,help desk receive complaint laptop screen white screen review,Desktop Support
+Network,sla breach risk due duplicate ip detect escalate,Network Team
+Security,suspicious third - party compromise detect workstation team dispatch,Security Team
+Access,user unable proceed due share drive permission issue,Desktop Support
+Access,third - party vendor notify access deny cis policy,Desktop Support
+Software,sla breach risk due application crash connect escalate,Application Support
+Security,remote user experience rootkit find vpn session active,Security Team
+Software,user submit ticket ui responsive via self - service portal,Application Support
+Software,user unable proceed due service start,Application Support
+Hardware,multiple user affect laptop trackpad jitter priority raise,Desktop Support
+Security,remote user experience phishe email detect vpn session active,Security Team
+Software,sla breach risk due slow application performance escalate,Application Support
+Access,access deny iam policy confirm system scan,Desktop Support
+Access,automate alert trigger admin right request,Desktop Support
+Access,multiple user affect shared folder accessible priority raise,Desktop Support
+Access,post - maintenance report : access deny vpn policy observe,Desktop Support
+Hardware,department manager flag laptop screen red tint critical,Desktop Support
+Software,third - party vendor notify licensing issue,Application Support
+Network,help desk receive complaint port block review,Network Team
+Security,user submit ticket suspicious policy violation via self - service portal,Security Team
+Hardware,multiple user affect laptop screen burn - in priority raise,Desktop Support
+Network,user submit ticket network ntp server unreachable via self - service portal,Network Team
+Network,recur network driver outdate report week,Network Team
+Software,on - site technician assign licensing issue,Application Support
+Hardware,printer paper jam issue escalate department head,Desktop Support
+Hardware,laptop screen grayscale issue detect workstation team dispatch,Desktop Support
+Access,access deny endpoint policy impact business operation,Desktop Support
+Access,ticket raise access deny soc policy team notify,Desktop Support
+Software,sla breach risk due macro execution error escalate,Application Support
+Access,user submit ticket access token misconfigured via self - service portal,Desktop Support
+Hardware,post - maintenance report : usb hub recognize observe,Desktop Support
+Software,ticket raise application crash uninstall team notify,Application Support
+Network,third - party vendor notify network ssl vpn failure,Network Team
+Hardware,on - site technician assign external hdd mount,Desktop Support
+Hardware,headset mic working detect workstation team dispatch,Desktop Support
+Access,recur share folder accessible report week,Desktop Support
+Software,department manager flag spreadsheet formula error critical,Application Support
+Software,incident log : application crash await assignment,Application Support
+Software,file corruption detect workstation team dispatch,Application Support
+Hardware,remote user experience laptop screen yellow tint vpn session active,Desktop Support
+Security,department manager flag suspicious packet injection critical,Security Team
+Access,on - site technician assign login issue,Desktop Support
+Software,application crash container start issue escalate department head,Application Support
+Hardware,on - site technician assign laptop screen yellow tint,Desktop Support
+Network,help desk receive complaint network speed slow review,Network Team
+Access,privilege escalation block issue escalate department head,Desktop Support
+Network,ticket raise cable unplug team notify,Network Team
+Network,post - maintenance report : network segmentation error observe,Network Team
+Hardware,multiple user affect laptop screen invert color priority raise,Desktop Support
+Network,router reboot require confirm system scan,Network Team
+Security,third - party vendor notify suspicious ot device alert,Security Team
+Security,certificate expire impact business operation,Security Team
+Software,sla breach risk due patch conflict escalate,Application Support
+Hardware,sla breach risk due hardware driver miss escalate,Desktop Support
+Access,department manager flag access deny nist policy critical,Desktop Support
+Software,user unable proceed due application respond,Application Support
+Hardware,headset mic working confirm system scan,Desktop Support
+Software,multiple user affect software installation fail priority raise,Application Support
+Network,sla breach risk due network misroute traffic escalate,Network Team
+Security,system flagged phishing email detect diagnostic initiate,Security Team
+Software,on - site technician assign application crash container start,Application Support
+Software,unrecognized file type issue escalate department head,Application Support
+Hardware,peripheral compatibility issue confirm system scan,Desktop Support
+Security,sla breach risk due data exfiltration attempt escalate,Security Team
+Software,authentication error impact business operation,Application Support
+Access,access deny system error confirm system scan,Desktop Support
+Access,system flag account lockout diagnostic initiate,Desktop Support
+Security,user submit ticket endpoint compliant via self - service portal,Security Team
+Hardware,laptop cmos battery failure confirm system scan,Desktop Support
+Security,suspicious dns poisoning detect workstation team dispatch,Security Team
+Hardware,user submit ticket hard drive crash via self - service portal,Desktop Support
+Access,remote user experience access deny iam policy vpn session active,Desktop Support
+Software,patch update fail impact business operation,Application Support
+Security,on - site technician assign weak password detect,Security Team
+Software,incident log : license expire await assignment,Application Support
+Network,incident log : network repeater failure await assignment,Network Team
+Access,recur pin reset require report week,Desktop Support
+Access,on - site technician assign access deny password policy,Desktop Support
+Hardware,post - maintenance report : hardware driver miss observe,Desktop Support
+Network,ticket raise weak signal strength team notify,Network Team
+Security,user unable proceed due suspicious partner compromise,Security Team
+Access,automate alert trigger ldap authentication fail,Desktop Support
+Hardware,laptop screen blue tint issue escalate department head,Desktop Support
+Hardware,dock station issue issue escalate department head,Desktop Support
+Access,vpn access issue issue escalate department head,Desktop Support
+Access,department manager flag access deny outage critical,Desktop Support
+Network,multiple user affect cloud service unreachable priority raise,Network Team
+Hardware,help desk receive complaint printer issue review,Desktop Support
+Access,post - maintenance report : access right revoke observe,Desktop Support
+Software,application crash vm shutdown detect workstation team dispatch,Application Support
+Access,ticket raise temporary access request team notify,Desktop Support
+Security,ticket raise rootkit find team notify,Security Team
+Hardware,recur laptop screen purple tint report week,Desktop Support
+Network,incident log : network dhcp server await assignment,Network Team
+Network,firewall block access detect workstation team dispatch,Network Team
+Network,remote user experience load balancer misconfigure vpn session active,Network Team
+Security,post - maintenance report : suspicious gdpr violation observe,Security Team
+Network,ssid visible issue escalate department head,Network Team
+Software,incident log : api timeout await assignment,Application Support
+Access,access deny vendor policy impact business operation,Desktop Support
+Network,recur network syslog server report week,Network Team
+Security,incident log : suspicious traffic tunneling await assignment,Security Team
+Security,remote user experience cross - site scripting detect vpn session active,Security Team
+Security,recur phishe website block report week,Security Team
+Access,user unable proceed due access policy violation,Desktop Support
+Network,network firewall overload confirm system scan,Network Team
+Hardware,incident log : power supply failure await assignment,Desktop Support
+Network,dhcp failure issue escalate department head,Network Team
+Software,automate alert trigger application crash exit,Application Support
+Software,software installation fail confirm system scan,Application Support
+Security,remote user experience suspicious packet injection vpn session active,Security Team
+Network,ticket raise network mpls misconfigure team notify,Network Team
+Network,automate alert trigger network subnet mask error,Network Team
+Access,ticket raise access deny gateway team notify,Desktop Support
+Access,on - site technician assign access deny token policy,Desktop Support
+Network,on - site technician assign gateway timeout,Network Team
+Network,remote user experience switch port vpn session active,Network Team
+Software,user unable proceed due application configuration mismatch,Application Support
+Access,post - maintenance report : kerberos ticket expired observe,Desktop Support
+Network,third - party vendor notify network hub failure,Network Team
+Hardware,sla breach risk due laptop screen grayscale issue escalate,Desktop Support
+Access,user submit ticket access deny application via self - service portal,Desktop Support
+Access,automate alert trigger access deny router,Desktop Support
+Security,remote user experience suspicious cloud login vpn session active,Security Team
+Hardware,multiple user affect keyboard key stick priority raise,Desktop Support
+Software,incident log : report generation failure await assignment,Application Support
+Software,application license expire confirm system scan,Application Support
+Access,third - party vendor notify access deny contractor policy,Desktop Support
+Software,help desk receive complaint application crash script review,Application Support
+Access,third - party vendor notify access deny geolocation policy,Desktop Support
+Software,help desk receive complaint application crash cloud sync review,Application Support
+Security,post - maintenance report : ransomware alert observe,Security Team
+Software,third - party vendor notify application crash vm deployment,Application Support
+Network,network jitter issue escalate department head,Network Team
+Access,access deny certificate policy issue escalate department head,Desktop Support
+Hardware,cd / dvd drive working issue escalate department head,Desktop Support
+Security,brute force attack detect workstation team dispatch,Security Team
+Security,email spoofing detect confirm system scan,Security Team
+Hardware,laptop screen refresh rate issue detect workstation team dispatch,Desktop Support
+Hardware,third - party vendor notify bio error,Desktop Support
+Hardware,sla breach risk due fan noise issue escalate,Desktop Support
+Access,ticket raise access deny iam policy team notify,Desktop Support
+Security,multiple user affect suspicious admin activity priority raise,Security Team
+Network,voip call drop issue escalate department head,Network Team
+Software,help desk receive complaint plugin loading review,Application Support
+Security,user submit ticket suspicious login location via self - service portal,Security Team
+Network,remote user experience network asymmetric routing vpn session active,Network Team
+Security,incident log : suspicious compliance violation await assignment,Security Team
+Access,incident log : access deny soc policy await assignment,Desktop Support
+Software,post - maintenance report : browser crash observe,Application Support
+Software,software update loop impact business operation,Application Support
+Access,multiple user affect license expire priority raise,Desktop Support
+Access,help desk receive complaint mfa working review,Desktop Support
+Software,ticket raise application crash test team notify,Application Support
+Network,third - party vendor notify network segmentation error,Network Team
+Access,multiple user affect access deny compliance policy priority raise,Desktop Support
+Access,sla breach risk due account lockout escalate,Desktop Support
+Software,application crash query detect workstation team dispatch,Application Support
+Hardware,incident log : laptop screen color distortion await assignment,Desktop Support
+Security,incident log : compromise credential await assignment,Security Team
+Software,incident log : application crash login await assignment,Application Support
+Security,department manager flag unauthorized access attempt critical,Security Team
+Hardware,on - site technician assign laptop touch screen working,Desktop Support
+Hardware,sla breach risk due laptop screen orange tint escalate,Desktop Support
+Hardware,multiple user affect docking station failure priority raise,Desktop Support
+Network,department manager flag cable unplug critical,Network Team
+Security,sla breach risk due malware detect escalate,Security Team
+Security,ticket raise suspicious dll injection team notify,Security Team
+Access,incident log : access deny cis policy await assignment,Desktop Support
+Network,user submit ticket network dns cache poisoning via self - service portal,Network Team
+Network,recur network eigrp misconfigure report week,Network Team
+Network,system flag switch overheat diagnostic initiate,Network Team
+Software,user unable proceed due broken ui update,Application Support
+Network,department manager flag firewall block access critical,Network Team
+Hardware,usb port working impact business operation,Desktop Support
+Security,help desk receive complaint suspicious c2 server detect review,Security Team
+Hardware,on - site technician assign webcam malfunction,Desktop Support
+Network,incident log : router reboot require await assignment,Network Team
+Hardware,help desk receive complaint webcam recognize review,Desktop Support
+Access,access deny regulatory policy confirm system scan,Desktop Support
+Hardware,automate alert trigger hard drive failure,Desktop Support
+Hardware,laptop screen burn - in impact business operation,Desktop Support
+Security,remote user experience brute force login attempt vpn session active,Security Team
+Hardware,third - party vendor notify keyboard respond,Desktop Support
+Software,api timeout issue escalate department head,Application Support
+Network,wi - fi authentication failure detect workstation team dispatch,Network Team
+Security,system flag suspicious privilege misuse diagnostic initiate,Security Team
+Security,suspicious insider activity impact business operation,Security Team
+Hardware,user unable proceed due ssd detect,Desktop Support
+Hardware,department manager flag peripheral device failure critical,Desktop Support
+Hardware,on - site technician assign hard drive failure,Desktop Support
+Access,automate alert trigger access deny gateway,Desktop Support
+Security,system flag suspicious oauth token use diagnostic initiate,Security Team
+Access,remote user experience role permission mismatch vpn session active,Desktop Support
+Access,on - site technician assign access deny certificate policy,Desktop Support
+Hardware,laptop screen purple tint detect workstation team dispatch,Desktop Support
+Software,application crash vm deployment issue escalate department head,Application Support
+Network,system flag network nat misconfigure diagnostic initiate,Network Team
+Network,user submit ticket network unauthorized device detect via self - service portal,Network Team
+Hardware,automate alert trigger laptop screen ghost image,Desktop Support
+Software,application license expire issue escalate department head,Application Support
+Software,sla breach risk due break ui update escalate,Application Support
+Software,automate alert trigger application freeze startup,Application Support
+Hardware,automate alert trigger external gpu detect,Desktop Support
+Hardware,remote user experience webcam recognize vpn session active,Desktop Support
+Security,unpatched vulnerability issue escalate department head,Security Team
+Security,department manager flag brute force attack critical,Security Team
+Network,incident log : network static route error await assignment,Network Team
+Access,automate alert trigger access deny iam policy,Desktop Support
+Software,on - site technician assign macro execution error,Application Support
+Network,user unable proceed due slow network speed,Network Team
+Software,on - site technician assign application crash update,Application Support
+Software,on - site technician assign application crash module,Application Support
+Access,certificate login failure issue escalate department head,Desktop Support
+Security,user unable proceed due suspicious replay attack,Security Team
+Hardware,motherboard failure impact business operation,Desktop Support
+Network,incident log : proxy authentication error await assignment,Network Team
+Access,post - maintenance report : email account disable observe,Desktop Support
+Access,recur access deny contractor policy report week,Desktop Support
+Access,post - maintenance report : access deny browser policy observe,Desktop Support
+Access,remote user experience pin reset require vpn session active,Desktop Support
+Network,switch port issue escalate department head,Network Team
+Access,remote user experience guest account expire vpn session active,Desktop Support
+Network,sla breach risk due gateway timeout escalate,Network Team
+Network,sla breach risk due network default gateway miss escalate,Network Team
+Access,remote user experience sso login failure vpn session active,Desktop Support
+Software,incident log : registry error await assignment,Application Support
+Network,user submit ticket ip conflict via self - service portal,Network Team
+Hardware,post - maintenance report : peripheral compatibility issue observe,Desktop Support
+Hardware,laptop screen brightness issue impact business operation,Desktop Support
+Software,multiple user affect unrecognized file type priority raise,Application Support
+Security,post - maintenance report : suspicious session hijack observe,Security Team
+Hardware,multiple user affect battery charge priority raise,Desktop Support
+Network,ticket raise dns resolution problem team notify,Network Team
+Network,user submit ticket network compliance violation via self - service portal,Network Team
+Network,user submit ticket network syslog server via self - service portal,Network Team
+Hardware,third - party vendor notify laptop screen vertical line,Desktop Support
+Software,incident log : application crash workflow await assignment,Application Support
+Software,remote user experience cloud sync failure vpn session active,Application Support
+Network,remote user experience ssid visible vpn session active,Network Team
+Hardware,post - maintenance report : laptop screen white screen observe,Desktop Support
+Hardware,third - party vendor notify laptop screen ghost,Desktop Support
+Security,multiple user affect certificate expire priority raise,Security Team
+Network,multiple user affect network dual - stack error priority raise,Network Team
+Hardware,remote user experience laptop screen pink tint vpn session active,Desktop Support
+Access,remote desktop login failure impact business operation,Desktop Support
+Hardware,department manager flag printer paper jam critical,Desktop Support
+Access,post - maintenance report : smart card recognize observe,Desktop Support
+Software,application configuration mismatch confirm system scan,Application Support
+Security,incident log : firewall intrusion alert await assignment,Security Team
+Hardware,dock station failure issue escalate department head,Desktop Support
+Security,user submit ticket suspicious pci violation via self - service portal,Security Team
+Software,incident log : cache corruption await assignment,Application Support
+Security,automate alert trigger brute force login attempt,Security Team
+Software,help desk receive complaint application crash vm migration review,Application Support
+Software,help desk receive complaint corrupt installation package review,Application Support
+Software,file format support confirm system scan,Application Support
+Access,post - maintenance report : account lockout observe,Desktop Support
+Security,remote user experience suspicious container activity vpn session active,Security Team
+Hardware,third - party vendor notify docking station recognize,Desktop Support
+Security,third - party vendor notify suspicious login location,Security Team
+Security,department manager flag brute force login attempt critical,Security Team
+Network,department manager flag network ddo detect critical,Network Team
+Network,user submit ticket network alert storm via self - service portal,Network Team
+Access,directory sync error confirm system scan,Desktop Support
+Network,remote user experience access point misconfigure vpn session active,Network Team
+Software,sla breach risk due plugin loading escalate,Application Support
+Software,sla breach risk due application crash service call escalate,Application Support
+Security,sla breach risk due suspicious iot device alert escalate,Security Team
+Hardware,recur laptop screen cable loose report week,Desktop Support
+Access,ticket raise directory sync failure team notify,Desktop Support
+Security,sla breach risk due suspicious registry change escalate,Security Team
+Software,department manager flag application crash module critical,Application Support
+Hardware,mouse issue confirm system scan,Desktop Support
+Access,directory sync failure confirm system scan,Desktop Support
+Hardware,sla breach risk due laptop screen horizontal line escalate,Desktop Support
+Security,multiple user affect suspicious insider activity priority raise,Security Team
+Access,ticket raise directory sync error team notify,Desktop Support
+Security,remote user experience ransomware infection vpn session active,Security Team
+Software,ticket raise application crash restore team notify,Application Support
+Security,post - maintenance report : suspicious scada alert observe,Security Team
+Security,multiple user affect ransomware alert priority raise,Security Team
+Network,system flag rout loop diagnostic initiate,Network Team
+Access,multiple user affect mfa work priority raise,Desktop Support
+Security,incident log : suspicious ot device alert await assignment,Security Team
+Network,sla breach risk due ethernet port disable escalate,Network Team
+Access,system flag group membership problem diagnostic initiate,Desktop Support
+Network,incident log : network segmentation error await assignment,Network Team
+Network,switch port confirm system scan,Network Team
+Software,user unable proceed due application crash login,Application Support
+Software,third - party vendor notify application crash import,Application Support
+Software,incident log : update rollback issue await assignment,Application Support
+Access,department manager flag access deny guest policy critical,Desktop Support
+Network,third - party vendor notify switch port,Network Team
+Software,email client sync impact business operation,Application Support
+Security,recur spyware infection report week,Security Team
+Access,user unable proceed due access deny mfa policy,Desktop Support
+Hardware,ticket raise laptop screen ghost image team notify,Desktop Support
+Access,access deny guest policy impact business operation,Desktop Support
+Security,multiple user affect suspicious driver installation priority raise,Security Team
+Software,application cpu overload impact business operation,Application Support
+Security,sla breach risk due suspicious policy violation escalate,Security Team
+Access,multiple user affect access deny server priority raise,Desktop Support
+Software,system flag ide opening diagnostic initiate,Application Support
+Software,remote user experience application crash visualization vpn session active,Application Support
+Security,help desk receive complaint suspicious admin activity review,Security Team
+Access,guest account disabled issue escalate department head,Desktop Support
+Security,phishe attempt report detect workstation team dispatch,Security Team
+Software,recur software update loop report week,Application Support
+Access,remote user experience access deny application vpn session active,Desktop Support
+Network,remote user experience network alert storm vpn session active,Network Team
+Access,mfa working issue escalate department head,Desktop Support
+Access,api key expired detect workstation team dispatch,Desktop Support
+Network,help desk receive complaint network ospf misconfigured review,Network Team
+Access,post - maintenance report : access timeout observe,Desktop Support
+Security,expose database detect workstation team dispatch,Security Team
+Hardware,usb hub recognize impact business operation,Desktop Support
+Network,on - site technician assign proxy server misconfiguration,Network Team
+Hardware,automate alert trigger hard drive crash,Desktop Support
+Security,remote user experience malware detect vpn session active,Security Team
+Security,multiple user affect suspicious dns hijack priority raise,Security Team
+Security,user unable proceed due suspicious shadow detect,Security Team
+Security,incident log : suspicious pci violation await assignment,Security Team
+Network,sla breach risk due network acl blocking escalate,Network Team
+Hardware,laptop fan noise detect workstation team dispatch,Desktop Support
+Hardware,external gpu detect confirm system scan,Desktop Support
+Access,multiple user affect temporary access request priority raise,Desktop Support
+Access,department manager flag remote desktop login failure critical,Desktop Support
+Hardware,on - site technician assign laptop ram slot failure,Desktop Support
+Security,ticket raise suspicious third - party compromise team notify,Security Team
+Network,on - site technician assign hotspot work,Network Team
+Access,third - party vendor notify access deny password policy,Desktop Support
+Hardware,user unable proceed due printer detect,Desktop Support
+Network,incident log : access point await assignment,Network Team
+Software,multiple user affect application freeze startup priority raise,Application Support
+Network,dhcp failure detect workstation team dispatch,Network Team
+Security,multiple user affect phishing email detect priority raise,Security Team
+Access,department manager flag share drive permission issue critical,Desktop Support
+Hardware,user unable proceed due external gpu detect,Desktop Support
+Access,access deny api issue escalate department head,Desktop Support
+Hardware,recur laptop screen driver miss report week,Desktop Support
+Security,suspicious process execution impact business operation,Security Team
+Software,on - site technician assign script runtime error,Application Support
+Access,recur inactive account report week,Desktop Support
+Security,on - site technician assign suspicious cloud login,Security Team
+Network,user submit ticket dhcp server unresponsive via self - service portal,Network Team
+Access,remote user experience access right revoke vpn session active,Desktop Support
+Network,network adapter disabled issue escalate department head,Network Team
+Hardware,department manager flag laptop screen purple tint critical,Desktop Support
+Security,sla breach risk due suspicious service startup escalate,Security Team
+Security,firewall intrusion alert issue escalate department head,Security Team
+Security,suspicious pci violation impact business operation,Security Team
+Security,suspicious privilege misuse impact business operation,Security Team
+Security,multiple user affect weak password detect priority raise,Security Team
+Hardware,usb port working issue escalate department head,Desktop Support
+Software,recur macro execution error report week,Application Support
+Network,weak signal strength impact business operation,Network Team
+Network,third - party vendor notify hotspot work,Network Team
+Software,recur application crash macro report week,Application Support
+Software,automate alert trigger version incompatibility,Application Support
+Hardware,third - party vendor notify headset mic working,Desktop Support
+Access,access deny abac policy impact business operation,Desktop Support
+Security,incident log : suspicious hipaa violation await assignment,Security Team
+Network,incident log : network unauthorized device detect await assignment,Network Team
+Hardware,laptop screen resolution error issue escalate department head,Desktop Support
+Software,post - maintenance report : mobile app instal observe,Application Support
+Access,user submit ticket badge / physical access deny via self - service portal,Desktop Support
+Network,help desk receive complaint network unauthorized device detect review,Network Team
+Network,multiple user affect network firewall overload priority raise,Network Team
+Network,vpn connection failure confirm system scan,Network Team
+Hardware,automate alert trigger laptop screen resolution error,Desktop Support
+Network,incident log : network spoof attempt await assignment,Network Team
+Hardware,automate alert trigger keyboard malfunction,Desktop Support
+Hardware,overheat gpu confirm system scan,Desktop Support
+Access,user unable proceed due inactive account,Desktop Support
+Access,multiple user affect access deny browser policy priority raise,Desktop Support
+Access,ticket raise access deny misconfiguration team notify,Desktop Support
+Network,network adapter disabled impact business operation,Network Team
+Access,system flag access approval pende diagnostic initiate,Desktop Support
+Hardware,remote user experience laptop screen dim vpn session active,Desktop Support
+Software,incident log : application crash logout await assignment,Application Support
+Security,incident log : email spoof detect await assignment,Security Team
+Software,api timeout confirm system scan,Application Support
+Software,post - maintenance report : application crash automation observe,Application Support
+Security,department manager flag suspicious supply chain attack critical,Security Team
+Access,third - party vendor notify share drive permission issue,Desktop Support
+Security,suspicious ot device alert issue escalate department head,Security Team
+Access,help desk receive complaint share folder accessible review,Desktop Support
+Network,packet loss detect detect workstation team dispatch,Network Team
+Access,system flag access deny server diagnostic initiate,Desktop Support
+Software,browser crash impact business operation,Application Support
+Network,ticket raise vpn tunnel drop team notify,Network Team
+Access,access deny database detect workstation team dispatch,Desktop Support
+Hardware,automate alert trigger fan noise issue,Desktop Support
+Access,access deny saas provider impact business operation,Desktop Support
+Hardware,multiple user affect laptop charge port loose priority raise,Desktop Support
+Network,recur router reboot require report week,Network Team
+Network,dhcp server unresponsive issue escalate department head,Network Team
+Hardware,department manager flag hard drive failure critical,Desktop Support
+Hardware,laptop battery swell issue escalate department head,Desktop Support
+Network,department manager flag wi - fi authentication failure critical,Network Team
+Hardware,system flag smartphone charge issue diagnostic initiate,Desktop Support
+Hardware,sla breach risk due laptop trackpad jitter escalate,Desktop Support
+Software,user submit ticket cache corruption via self - service portal,Application Support
+Access,token validation error confirm system scan,Desktop Support
+Software,post - maintenance report : service starting observe,Application Support
+Software,ticket raise application crash module team notify,Application Support
+Network,post - maintenance report : network misroute traffic observe,Network Team
+Network,network misroute traffic impact business operation,Network Team
+Security,suspicious network scan detect workstation team dispatch,Security Team
+Hardware,incident log : keyboard key stick await assignment,Desktop Support
+Network,proxy misconfiguration impact business operation,Network Team
+Hardware,ticket raise webcam malfunction team notify,Desktop Support
+Access,automate alert trigger access deny nist policy,Desktop Support
+Security,sla breach risk due suspicious email attachment escalate,Security Team
+Network,bgp misconfiguration impact business operation,Network Team
+Network,recur network dual - stack error report week,Network Team
+Network,sla breach risk due bandwidth exceed escalate,Network Team
+Security,system flag weak password detect diagnostic initiate,Security Team
+Hardware,docking station recognize impact business operation,Desktop Support
+Hardware,recur laptop screen problem report week,Desktop Support
+Security,automate alert trigger suspicious ip spoof,Security Team
+Security,suspicious soc alert impact business operation,Security Team
+Software,ui responsive detect workstation team dispatch,Application Support
+Access,automate alert trigger badge / physical access deny,Desktop Support
+Network,automate alert trigger network blackhole rout,Network Team
+Access,department manager flag access deny switch critical,Desktop Support
+Access,automate alert trigger access deny network policy,Desktop Support
+Network,remote user experience bgp route flap vpn session active,Network Team
+Hardware,incident log : laptop screen ghost image await assignment,Desktop Support
+Security,system flag suspicious packet injection diagnostic initiate,Security Team
+Software,on - site technician assign memory leak detect,Application Support
+Network,access point impact business operation,Network Team
+Network,automate alert trigger qos misconfigured,Network Team
+Software,user unable proceed due application cpu overload,Application Support
+Hardware,speaker / audio failure confirm system scan,Desktop Support
+Security,unauthorized api call impact business operation,Security Team
+Network,help desk receive complaint vpn connection failure review,Network Team
+Security,remote user experience data breach incident vpn session active,Security Team
+Access,department manager flag access deny iso policy critical,Desktop Support
+Security,ticket raise suspicious mobile device alert team notify,Security Team
+Hardware,user submit ticket laptop fan noise via self - service portal,Desktop Support
+Security,remote user experience suspicious audit log tamper vpn session active,Security Team
+Access,department manager flag access deny proxy critical,Desktop Support
+Software,recur application crash logout report week,Application Support
+Security,remote user experience suspicious outbound traffic vpn session active,Security Team
+Hardware,multiple user affect laptop keyboard backlight failure priority raise,Desktop Support
+Software,user submit ticket authentication error via self - service portal,Application Support
+Hardware,recur ssd detect report week,Desktop Support
+Software,user submit ticket cloud sync failure via self - service portal,Application Support
+Security,ransomware alert detect workstation team dispatch,Security Team
+Software,help desk receive complaint application crash workflow review,Application Support
+Security,sla breach risk due suspicious endpoint alert escalate,Security Team
+Network,sla breach risk due dhcp server unresponsive escalate,Network Team
+Hardware,multiple user affect mouse issue priority raise,Desktop Support
+Hardware,remote user experience laptop touch screen working vpn session active,Desktop Support
+Hardware,system flag ssd detect diagnostic initiate,Desktop Support
+Software,software installation fail impact business operation,Application Support
+Network,help desk receive complaint voip call drop review,Network Team
+Access,access deny certificate policy impact business operation,Desktop Support
+Hardware,sla breach risk due laptop keyboard backlight failure escalate,Desktop Support
+Access,automate alert trigger guest account disable,Desktop Support
+Hardware,user unable proceed due tablet screen crack,Desktop Support
+Security,user submit ticket suspicious cis violation via self - service portal,Security Team
+Network,third - party vendor notify duplicate ip detect,Network Team
+Access,temporary access request impact business operation,Desktop Support
+Software,ticket raise application crash connect team notify,Application Support
+Security,suspicious memory dump detect workstation team dispatch,Security Team
+Software,user unable proceed due software update loop,Application Support
+Hardware,multiple user affect hard drive failure priority raise,Desktop Support
+Software,system flag application crash visualization diagnostic initiate,Application Support
+Hardware,sla breach risk due monitor flickering escalate,Desktop Support
+Security,incident log : suspicious ip spoof await assignment,Security Team
+Software,recur application crash debug report week,Application Support
+Access,multiple user affect access deny guest policy priority raise,Desktop Support
+Access,sla breach risk due access deny database escalate,Desktop Support
+Software,system flag virtual machine crash diagnostic initiate,Application Support
+Access,user submit ticket access deny geolocation policy via self - service portal,Desktop Support
+Security,incident log : suspicious scada alert await assignment,Security Team
+Software,on - site technician assign application crash plugin,Application Support
+Security,department manager flag suspicious replay attack critical,Security Team
+Network,incident log : firewall nat error await assignment,Network Team
+Security,ticket raise suspicious driver installation team notify,Security Team
+Network,automate alert trigger captive portal issue,Network Team
+Access,access deny gateway issue escalate department head,Desktop Support
+Security,system flag suspicious beacon traffic diagnostic initiate,Security Team
+Hardware,incident log : laptop screen crack await assignment,Desktop Support
+Software,recur application crash export report week,Application Support
+Software,application crash query issue escalate department head,Application Support
+Security,sla breach risk due suspicious activity detect escalate,Security Team
+Network,remote user experience network unauthorized access vpn session active,Network Team
+Hardware,automate alert trigger laptop screen invert color,Desktop Support
+Security,suspicious vm activity detect workstation team dispatch,Security Team
+Software,collaboration tool login failure issue escalate department head,Application Support
+Access,access deny custom policy impact business operation,Desktop Support
+Hardware,department manager flag printer issue critical,Desktop Support
+Access,incident log : password reset await assignment,Desktop Support
+Security,system flag suspicious admin activity diagnostic initiate,Security Team
+Hardware,on - site technician assign battery drain fast,Desktop Support
+Network,automate alert trigger network port scanning detect,Network Team
+Network,third - party vendor notify network ntp server unreachable,Network Team
+Network,department manager flag network ipv6 misconfigured critical,Network Team
+Hardware,system flag laptop screen hinge break diagnostic initiate,Desktop Support
+Hardware,recur laptop screen invert color report week,Desktop Support
+Software,application crash logout issue escalate department head,Application Support
+Network,remote user experience vpn tunnel drop vpn session active,Network Team
+Security,remote user experience suspicious exfiltration detect vpn session active,Security Team
+Software,system flag application crash diagnostic initiate,Application Support
+Network,network ipsec tunnel failure impact business operation,Network Team
+Hardware,remote user experience laptop hinge loose vpn session active,Desktop Support
+Software,department manager flag application crash workflow critical,Application Support
+Hardware,monitor dead pixel impact business operation,Desktop Support
+Software,software update loop issue escalate department head,Application Support
+Security,ticket raise suspicious beacon traffic team notify,Security Team
+Software,multiple user affect corrupted installation package priority raise,Application Support
+Network,weak signal strength issue escalate department head,Network Team
+Security,multiple user affect expose database priority raise,Security Team
+Access,post - maintenance report : access audit failure observe,Desktop Support
+Software,application crash module impact business operation,Application Support
+Hardware,remote user experience peripheral compatibility issue vpn session active,Desktop Support
+Security,automate alert trigger suspicious container activity,Security Team
+Hardware,multiple user affect laptop screen color distortion priority raise,Desktop Support
+Access,vpn access issue confirm system scan,Desktop Support
+Access,ticket raise access deny geolocation policy team notify,Desktop Support
+Security,user unable proceed due suspicious port knock,Security Team
+Hardware,laptop screen horizontal line issue escalate department head,Desktop Support
+Security,user unable proceed due suspicious outbound traffic,Security Team
+Security,suspicious siem alert confirm system scan,Security Team
+Network,automate alert trigger network repeater failure,Network Team
+Hardware,user unable proceed due docking station recognize,Desktop Support
+Access,help desk receive complaint unauthorized login attempt review,Desktop Support
+Access,ticket raise certificate login failure team notify,Desktop Support
+Hardware,user submit ticket scanner detect via self - service portal,Desktop Support
+Hardware,incident log : smartphone charge issue await assignment,Desktop Support
+Access,on - site technician assign privileged access misuse,Desktop Support
+Network,access point misconfigure impact business operation,Network Team
+Software,automate alert trigger application crash,Application Support
+Hardware,user submit ticket laptop screen dim via self - service portal,Desktop Support
+Access,access delegation error impact business operation,Desktop Support
+Access,third - party vendor notify access deny casb policy,Desktop Support
+Network,user unable proceed due network collision detect,Network Team
+Security,on - site technician assign suspicious replay attack,Security Team
+Access,automate alert trigger access token misconfigured,Desktop Support
+Security,system flag suspicious vm activity diagnostic initiate,Security Team
+Network,cloud service unreachable impacting business operation,Network Team
+Security,third - party vendor notify suspicious pci violation,Security Team
+Hardware,recur laptop screen color distortion report week,Desktop Support
+Hardware,laptop screen green tint impact business operation,Desktop Support
+Network,network ips alert confirm system scan,Network Team
+Network,system flag network congestion diagnostic initiate,Network Team
+Security,system flag suspicious email attachment diagnostic initiate,Security Team
+Hardware,remote user experience hard drive crash vpn session active,Desktop Support
+Access,user submit ticket access control list misconfigure via self - service portal,Desktop Support
+Hardware,automate alert trigger laptop screen brightness issue,Desktop Support
+Network,remote user experience network unauthorized device detect vpn session active,Network Team
+Hardware,third - party vendor notify dock station failure,Desktop Support
+Access,access deny cloud service detect workstation team dispatch,Desktop Support
+Network,third - party vendor notify network blackhole rout,Network Team
+Hardware,automate alert trigger laptop screen pink tint,Desktop Support
+Hardware,third - party vendor notify webcam malfunction,Desktop Support
+Security,user unable proceed due suspicious insider activity,Security Team
+Network,ticket raise network syslog server team notify,Network Team
+Software,third - party vendor notify application crash query,Application Support
+Security,post - maintenance report : firewall intrusion alert observe,Security Team
+Hardware,automate alert trigger motherboard failure,Desktop Support
+Security,recur suspicious siem alert report week,Security Team
+Software,remote user experience cache corruption vpn session active,Application Support
+Security,ticket raise suspicious jwt token use team notify,Security Team
+Network,automate alert trigger network compliance violation,Network Team
+Hardware,user submit ticket monitor flicker via self - service portal,Desktop Support
+Hardware,laptop screen driver miss issue escalate department head,Desktop Support
+Access,recur access token misconfigured report week,Desktop Support
+Access,department manager flag role permission mismatch critical,Desktop Support
+Network,department manager flag port block critical,Network Team
+Software,user submit ticket update rollback issue via self - service portal,Application Support
+Access,on - site technician assign access deny vendor policy,Desktop Support
+Network,incident log : ssid visible await assignment,Network Team
+Software,ticket raise application crash logout team notify,Application Support
+Security,on - site technician assign suspicious kernel activity,Security Team
+Hardware,laptop overheat shutdown detect workstation team dispatch,Desktop Support
+Security,multiple user affect suspicious mac spoof priority raise,Security Team
+Software,multiple user affect macro execution error priority raise,Application Support
+Security,suspicious sox violation impact business operation,Security Team
+Software,version incompatibility confirm system scan,Application Support
+Network,remote user experience network authentication failure vpn session active,Network Team
+Security,remote user experience compromise credential vpn session active,Security Team
+Software,department manager flag application crash container start critical,Application Support
+Network,post - maintenance report : access point misconfigure observe,Network Team
+Security,sql injection attempt confirm system scan,Security Team
+Software,application crash connect issue escalate department head,Application Support
+Software,sla breach risk due virtual machine crash escalate,Application Support
+Software,multiple user affect application crash compile priority raise,Application Support
+Hardware,multiple user affect laptop screen black screen priority raise,Desktop Support
+Software,on - site technician assign application crash logout,Application Support
+Network,user unable proceed due switch port failure,Network Team
+Access,on - site technician assign access deny firewall,Desktop Support
+Access,on - site technician assign access deny regulatory policy,Desktop Support
+Security,malware detect detect workstation team dispatch,Security Team
+Hardware,laptop speaker distortion confirm system scan,Desktop Support
+Access,access deny temporary restriction confirm system scan,Desktop Support
+Security,third - party vendor notify suspicious partner compromise,Security Team
+Software,on - site technician assign application crash restore,Application Support
+Software,application crash compile issue escalate department head,Application Support
+Security,user unable proceed due cross - site scripting detect,Security Team
+Access,access deny device compliance impact business operation,Desktop Support
+Software,help desk receive complaint mobile app instal review,Application Support
+Hardware,department manager flag monitor flickering critical,Desktop Support
+Access,on - site technician assign smart card recognize,Desktop Support
+Network,bridge mode error confirm system scan,Network Team
+Security,recur suspicious rat detect report week,Security Team
+Network,remote user experience ip conflict vpn session active,Network Team
+Hardware,third - party vendor notify printer ink cartridge error,Desktop Support
+Access,department manager flag directory sync error critical,Desktop Support
+Hardware,user submit ticket laptop screen freeze image via self - service portal,Desktop Support
+Network,post - maintenance report : network default gateway miss observe,Network Team
+Access,automate alert trigger access compliance violation,Desktop Support
+Network,system flag duplicate ip detect diagnostic initiate,Network Team
+Access,user submit ticket group membership problem via self - service portal,Desktop Support
+Access,incident log : access log failure await assignment,Desktop Support
+Access,third - party vendor notify access deny gateway,Desktop Support
+Network,automate alert trigger network dns server,Network Team
+Security,suspicious replay attack confirm system scan,Security Team
+Network,sla breach risk due bgp route flapping escalate,Network Team
+Hardware,laptop battery swell confirm system scan,Desktop Support
+Security,automate alert trigger suspicious audit log tampering,Security Team
+Security,third - party vendor notify suspicious file download,Security Team
+Software,post - maintenance report : application crash restore observe,Application Support
+Access,user unable proceed due token expire,Desktop Support
+Security,suspicious privilege misuse confirm system scan,Security Team
+Security,department manager flag suspicious hypervisor activity critical,Security Team
+Access,automate alert trigger biometric login fail,Desktop Support
+Access,user unable proceed due api key expire,Desktop Support
+Hardware,keyboard key stick issue escalate department head,Desktop Support
+Hardware,printer detect issue escalate department head,Desktop Support
+Network,department manager flag network asymmetric rout critical,Network Team
+Access,user unable proceed due access revocation pende,Desktop Support
+Security,on - site technician assign zero - day exploit,Security Team
+Software,on - site technician assign application crash run,Application Support
+Network,hotspot work impact business operation,Network Team
+Software,on - site technician assign software installation fail,Application Support
+Network,incident log : network snmp misconfigure await assignment,Network Team
+Network,ticket raise network speed slow team notify,Network Team
+Network,multiple user affect network configuration drift priority raise,Network Team
+Access,ticket raise access deny custom policy team notify,Desktop Support
+Access,on - site technician assign role permission mismatch,Desktop Support
+Network,remote user experience proxy server misconfiguration vpn session active,Network Team
+Security,incident log : certificate spoof await assignment,Security Team
+Hardware,incident log : laptop screen black screen await assignment,Desktop Support
+Access,user unable proceed due access deny saas provider,Desktop Support
+Access,help desk receive complaint certificate login failure review,Desktop Support
+Security,recur suspicious audit log tampering report week,Security Team
+Hardware,post - maintenance report : ram issue observe,Desktop Support
+Network,on - site technician assign access point,Network Team
+Hardware,third - party vendor notify laptop hinge loose,Desktop Support
+Software,application crash test issue escalate department head,Application Support
+Access,access deny rbac policy detect workstation team dispatch,Desktop Support
+Software,recur application crash query report week,Application Support
+Software,help desk receive complaint application crash extension review,Application Support
+Security,suspicious driver installation impact business operation,Security Team
+Software,application deadlock confirm system scan,Application Support
+Software,on - site technician assign software dependency miss,Application Support
+Access,help desk receive complaint directory sync failure review,Desktop Support
+Hardware,incident log : laptop fan failure await assignment,Desktop Support
+Access,incident log : email account disabled await assignment,Desktop Support
+Access,system flag mfa work diagnostic initiate,Desktop Support
+Hardware,ticket raise motherboard failure team notify,Desktop Support
+Network,recur switch port failure report week,Network Team
+Security,on - site technician assign suspicious beacon traffic,Security Team
+Security,ticket raise suspicious registry change team notify,Security Team
+Access,help desk receive complaint access deny device compliance review,Desktop Support
+Security,multiple user affect suspicious service startup priority raise,Security Team
+Access,on - site technician assign access deny misconfiguration,Desktop Support
+Software,background process stick detect workstation team dispatch,Application Support
+Hardware,laptop screen white screen issue escalate department head,Desktop Support
+Software,ticket raise application crash login team notify,Application Support
+Security,remote user experience unauthorized access attempt vpn session active,Security Team
+Network,automate alert trigger network id alert,Network Team
+Security,recur suspicious insider activity report week,Security Team
+Software,multiple user affect application memory overflow priority raise,Application Support
+Network,department manager flag dns resolution problem critical,Network Team
+Security,multiple user affect suspicious siem alert priority raise,Security Team
+Network,help desk receive complaint network dns server review,Network Team
+Security,remote user experience suspicious contractor compromise vpn session active,Security Team
+Network,latency spike confirm system scan,Network Team
+Hardware,help desk receive complaint mouse double - click issue review,Desktop Support
+Hardware,system flag keyboard malfunction diagnostic initiate,Desktop Support
+Network,remote user experience network ipv6 misconfigured vpn session active,Network Team
+Hardware,remote user experience bio error vpn session active,Desktop Support
+Hardware,laptop battery swell impact business operation,Desktop Support
+Access,recur access deny auditor policy report week,Desktop Support
+Software,department manager flag application configuration mismatch critical,Application Support
+Access,incident log : access deny maintenance window awaiting assignment,Desktop Support
+Software,user unable proceed due application crash compile,Application Support
+Hardware,recur laptop trackpad jitter report week,Desktop Support
+Hardware,scanner calibration issue detect workstation team dispatch,Desktop Support
+Hardware,ssd detect confirm system scan,Desktop Support
+Network,remote user experience network static route error vpn session active,Network Team
+Hardware,sla breach risk due overheating issue escalate,Desktop Support
+Security,user unable proceed due suspicious mobile device alert,Security Team
+Software,user submit ticket operating system error via self - service portal,Application Support
+Hardware,automate alert trigger laptop battery swell,Desktop Support
+Security,system flag suspicious ip spoof diagnostic initiate,Security Team
+Network,unstable wireless connection impact business operation,Network Team
+Network,user submit ticket network acl blocking via self - service portal,Network Team
+Access,department manager flag cloud account suspend critical,Desktop Support
+Software,remote user experience application crash exit vpn session active,Application Support
+Security,sla breach risk due suspicious soc alert escalate,Security Team
+Hardware,system flag laptop charge port loose diagnostic initiate,Desktop Support
+Access,on - site technician assign vpn login deny,Desktop Support
+Network,slow network speed confirm system scan,Network Team
+Network,multiple user affect internet outage priority raise,Network Team
+Security,ticket raise suspicious cis violation team notify,Security Team
+Software,third - party vendor notify configuration file miss,Application Support
+Software,on - site technician assign application crash library,Application Support
+Network,network repeater failure issue escalate department head,Network Team
+Hardware,remote user experience laptop fan noise vpn session active,Desktop Support
+Hardware,user unable proceed due usb hub recognize,Desktop Support
+Software,help desk receive complaint software timeout review,Application Support
+Network,network dual - stack error confirm system scan,Network Team
+Software,post - maintenance report : app freeze observe,Application Support
+Security,suspicious activity detect confirm system scan,Security Team
+Network,automate alert trigger network ddo detect,Network Team
+Access,account lockout issue escalate department head,Desktop Support
+Network,multiple user affect network asymmetric routing priority raise,Network Team
+Security,ticket raise suspicious exfiltration detect team notify,Security Team
+Access,user access deny issue escalate department head,Desktop Support
+Access,department manager flag guest account expire critical,Desktop Support
+Network,rout loop issue escalate department head,Network Team
+Access,incident log : password reset failure await assignment,Desktop Support
+Hardware,sla breach risk due motherboard capacitor blow escalate,Desktop Support
+Network,sla breach risk due network ip address error escalate,Network Team
+Security,user unable proceed due suspicious nist violation,Security Team
+Access,single sign - on error impact business operation,Desktop Support
+Network,department manager flag network unauthorized access critical,Network Team
+Hardware,laptop screen connector failure impact business operation,Desktop Support
+Hardware,peripheral device failure issue escalate department head,Desktop Support
+Access,user unable proceed due access deny vendor policy,Desktop Support
+Security,post - maintenance report : suspicious replay attack observe,Security Team
+Hardware,post - maintenance report : tablet screen crack observe,Desktop Support
+Network,recur network dhcp server report week,Network Team
+Hardware,third - party vendor notify laptop ram slot failure,Desktop Support
+Security,suspicious replay attack impact business operation,Security Team
+Security,multiple user affect suspicious nist violation priority raise,Security Team
+Hardware,user unable proceed due laptop casing crack,Desktop Support
+Software,application memory overflow confirm system scan,Application Support
+Network,user unable proceed due network adapter disable,Network Team
+Security,automate alert trigger suspicious registry change,Security Team
+Network,post - maintenance report : network firewall overload observe,Network Team
+Security,help desk receive complaint compromise credential review,Security Team
+Hardware,system flag laptop screen connector failure diagnostic initiate,Desktop Support
+Network,ssid visible impact business operation,Network Team
+Network,department manager flag network static route error critical,Network Team
+Software,on - site technician assign application crash connect,Application Support
+Access,automate alert trigger access deny regulatory policy,Desktop Support
+Access,system flag access deny firewall diagnostic initiate,Desktop Support
+Hardware,multiple user affect external ssd overheat priority raise,Desktop Support
+Network,help desk receive complaint network port scanning detect review,Network Team
+Access,help desk receive complaint multi - factor authentication failure review,Desktop Support
+Software,multiple user affect licensing issue priority raise,Application Support
+Software,remote user experience application crash container start vpn session active,Application Support
+Security,user unable proceed due suspicious activity detect,Security Team
+Software,user submit ticket unsupported operating system version via self - service portal,Application Support
+Hardware,post - maintenance report : laptop screen burn - in observe,Desktop Support
+Access,on - site technician assign share drive permission issue,Desktop Support
+Access,ticket raise badge / physical access deny team notify,Desktop Support
+Access,sla breach risk due access deny endpoint policy escalate,Desktop Support
+Security,rootkit find issue escalate department head,Security Team
+Access,third - party vendor notify access deny cloud service,Desktop Support
+Software,user submit ticket application crash compile via self - service portal,Application Support
+Network,remote user experience network dual - stack error vpn session active,Network Team
+Access,help desk receive complaint access deny iam policy review,Desktop Support
+Security,user submit ticket suspicious process execution via self - service portal,Security Team
+Hardware,automate alert trigger laptop screen frozen image,Desktop Support
+Software,application crash cloud sync detect workstation team dispatch,Application Support
+Access,ticket raise access approval pende team notify,Desktop Support
+Security,remote user experience ddo attack detect vpn session active,Security Team
+Security,incident log : suspicious custom policy violation await assignment,Security Team
+Hardware,user unable proceed due keyboard respond,Desktop Support
+Access,incident log : access deny password policy await assignment,Desktop Support
+Hardware,sla breach risk due laptop bio corrupt escalate,Desktop Support
+Software,service start detect workstation team dispatch,Application Support
+Software,application deadlock impact business operation,Application Support
+Security,third - party vendor notify suspicious service startup,Security Team
+Hardware,remote user experience laptop screen ghost vpn session active,Desktop Support
+Hardware,mouse issue impact business operation,Desktop Support
+Network,user submit ticket bgp misconfiguration via self - service portal,Network Team
+Software,on - site technician assign update rollback issue,Application Support
+Hardware,ticket raise ssd detect team notify,Desktop Support
+Network,department manager flag network rip misconfigure critical,Network Team
+Network,automate alert trigger network default gateway miss,Network Team
+Network,user unable proceed due network authentication failure,Network Team
+Access,help desk receive complaint access deny temporary restriction review,Desktop Support
+Network,on - site technician assign network snmp misconfigure,Network Team
+Network,automate alert trigger cloud service unreachable,Network Team
+Network,on - site technician assign load balancer misconfigured,Network Team
+Access,remote user experience access deny cloud service vpn session active,Desktop Support
+Access,guest account disabled impact business operation,Desktop Support
+Security,automate alert trigger suspicious pci violation,Security Team
+Hardware,recur laptop touch screen working report week,Desktop Support
+Access,user submit ticket access deny mfa policy via self - service portal,Desktop Support
+Network,remote user experience access point vpn session active,Network Team
+Security,incident log : suspicious port knock await assignment,Security Team
+Hardware,ticket raise laptop screen red tint team notify,Desktop Support
+Access,incident log : access deny vpn policy await assignment,Desktop Support
+Security,help desk receive complaint suspicious mac spoof review,Security Team
+Security,remote user experience suspicious shadow detect vpn session active,Security Team
+Hardware,incident log : external hdd mount await assignment,Desktop Support
+Hardware,on - site technician assign laptop screen brightness issue,Desktop Support
+Network,remote user experience latency spike vpn session active,Network Team
+Network,network asymmetric routing impact business operation,Network Team
+Network,system flag gateway timeout diagnostic initiate,Network Team
+Security,on - site technician assign suspicious hipaa violation,Security Team
+Access,help desk receive complaint access token misconfigured review,Desktop Support
+Security,third - party vendor notify suspicious mobile device alert,Security Team
+Security,user unable proceed due suspicious backdoor detect,Security Team
+Network,system flag network adapter disabled diagnostic initiate,Network Team
+Security,on - site technician assign ransomware alert,Security Team
+Security,recur zero - day exploit report week,Security Team
+Network,network unauthorized access detect workstation team dispatch,Network Team
+Software,automate alert trigger application crash install,Application Support
+Hardware,post - maintenance report : laptop screen grayscale issue observe,Desktop Support
+Security,automate alert trigger suspicious dns hijack,Security Team
+Security,ticket raise suspicious vendor compromise team notify,Security Team
+Software,third - party vendor notify application crash vm boot,Application Support
+Software,software update failure impact business operation,Application Support
+Hardware,post - maintenance report : battery charging observe,Desktop Support
+Access,access deny certificate policy confirm system scan,Desktop Support
+Security,suspicious driver installation confirm system scan,Security Team
+Network,multiple user affect switch port priority raise,Network Team
+Network,port block issue escalate department head,Network Team
+Security,multiple user affect suspicious file download priority raise,Security Team
+Hardware,laptop will not power detect workstation team dispatch,Desktop Support
+Network,department manager flag network acl blocking critical,Network Team
+Access,ticket raise access deny switch team notify,Desktop Support
+Security,on - site technician assign unauthorized access attempt,Security Team
+Hardware,user submit ticket laptop screen line via self - service portal,Desktop Support
+Access,sla breach risk due access deny byod policy escalate,Desktop Support
+Software,incident log : script runtime error await assignment,Application Support
+Software,on - site technician assign application crash sync,Application Support
+Network,post - maintenance report : dhcp failure observe,Network Team
+Access,help desk receive complaint access delegation error review,Desktop Support
+Software,virtual machine crash issue escalate department head,Application Support
+Software,user unable proceed due cloud sync failure,Application Support
+Software,application crash report impact business operation,Application Support
+Security,suspicious siem alert detect workstation team dispatch,Security Team
+Network,user unable proceed due network firewall overload,Network Team
+Security,suspicious outbound traffic detect workstation team dispatch,Security Team
+Network,post - maintenance report : network duplex mismatch observe,Network Team
+Software,incident log : application crash save await assignment,Application Support
+Software,recur application crash vm migration report week,Application Support
+Network,bgp route flapping issue escalate department head,Network Team
+Network,user submit ticket vpn certificate expire via self - service portal,Network Team
+Hardware,user unable proceed due laptop screen green tint,Desktop Support
+Network,user submit ticket isp outage via self - service portal,Network Team
+Software,department manager flag script runtime error critical,Application Support
+Security,suspicious replay attack issue escalate department head,Security Team
+Access,third - party vendor notify access deny system error,Desktop Support
+Security,post - maintenance report : malicious macro detect observe,Security Team
+Access,automate alert trigger temporary access request,Desktop Support
+Security,suspicious ot device alert confirm system scan,Security Team
+Network,on - site technician assign firewall nat error,Network Team
+Hardware,sla breach risk due laptop screen problem escalate,Desktop Support
+Security,security patch miss impact business operation,Security Team
+Network,network alert storm confirm system scan,Network Team
+Hardware,sla breach risk due scanner detected escalate,Desktop Support
+Software,system flag service start diagnostic initiate,Application Support
+Network,network ipv6 misconfigured confirm system scan,Network Team
+Hardware,user submit ticket printer issue via self - service portal,Desktop Support
+Software,multiple user affect application crash framework priority raise,Application Support
+Security,department manager flag suspicious privilege misuse critical,Security Team
+Hardware,remote user experience laptop screen backlight failure vpn session active,Desktop Support
+Access,recur privileged access misuse report week,Desktop Support
+Access,system flag access deny iso policy diagnostic initiate,Desktop Support
+Software,sla breach risk due container deployment error escalate,Application Support
+Access,ticket raise access deny system error team notify,Desktop Support
+Access,ticket raise account lockout team notify,Desktop Support
+Software,user unable proceed due api timeout,Application Support
+Network,department manager flag wi - fi connectivity issue critical,Network Team
+Software,help desk receive complaint application crash vm shutdown review,Application Support
+Access,login issue issue escalate department head,Desktop Support
+Software,system flag application crash compile diagnostic initiate,Application Support
+Software,department manager flag collaboration tool login failure critical,Application Support
+Access,third - party vendor notify vpn access issue,Desktop Support
+Security,incident log : spyware infection await assignment,Security Team
+Network,sla breach risk due network adapter disabled escalate,Network Team
+Security,suspicious oauth token use confirm system scan,Security Team
+Network,department manager flag network vlan misconfigure critical,Network Team
+Access,system flag access deny cis policy diagnostic initiate,Desktop Support
+Software,help desk receive complaint application crash container start review,Application Support
+Hardware,post - maintenance report : laptop screen yellow tint observe,Desktop Support
+Access,access deny siem policy impact business operation,Desktop Support
+Hardware,automate alert trigger projector bulb failure,Desktop Support
+Software,update rollback issue confirm system scan,Application Support
+Hardware,laptop screen vertical line confirm system scan,Desktop Support
+Access,access right revoke issue escalate department head,Desktop Support
+Security,automate alert trigger suspicious ot device alert,Security Team
+Hardware,remote user experience hardware driver miss vpn session active,Desktop Support
+Hardware,laptop screen dim issue escalate department head,Desktop Support
+Software,application crash uninstall confirm system scan,Application Support
+Hardware,laptop microphone working impact business operation,Desktop Support
+Access,automate alert trigger access approval pende,Desktop Support
+Network,incident log : network acl blocking await assignment,Network Team
+Access,third - party vendor notify mfa working,Desktop Support
+Security,suspicious exfiltration detect confirm system scan,Security Team
+Hardware,user unable proceed due projector bulb failure,Desktop Support
+Software,user submit ticket application crash login via self - service portal,Application Support
+Access,access deny os policy issue escalate department head,Desktop Support
+Security,user unable proceed due suspicious cloud login,Security Team
+Network,automate alert trigger vpn tunnel drop,Network Team
+Network,help desk receive complaint proxy authentication error review,Network Team
+Security,certificate spoofing detect workstation team dispatch,Security Team
+Network,multiple user affect hotspot work priority raise,Network Team
+Network,port block impact business operation,Network Team
+Hardware,incident log : laptop screen blue tint awaiting assignment,Desktop Support
+Access,user unable proceed due access deny token policy,Desktop Support
+Hardware,system flag laptop screen dead pixel diagnostic initiate,Desktop Support
+Software,sla breach risk due application crash update escalate,Application Support
+Network,on - site technician assign switch port,Network Team
+Security,help desk receive complaint cloud misconfiguration review,Security Team
+Hardware,projector bulb failure confirm system scan,Desktop Support
+Access,multi - factor authentication failure confirm system scan,Desktop Support
+Hardware,user submit ticket mouse double - click issue via self - service portal,Desktop Support
+Software,incident log : software update failure await assignment,Application Support
+Network,multiple user affect network spoofing attempt priority raise,Network Team
+Network,user unable proceed due wi - fi authentication failure,Network Team
+Network,post - maintenance report : network compliance violation observe,Network Team
+Software,department manager flag cache corruption critical,Application Support
+Security,on - site technician assign suspicious email attachment,Security Team
+Hardware,laptop keyboard backlight failure detect workstation team dispatch,Desktop Support
+Software,incident log : ui responsive await assignment,Application Support
+Access,incident log : token expired await assignment,Desktop Support
+Access,third - party vendor notify access deny maintenance window,Desktop Support
+Network,department manager flag vpn tunnel drop critical,Network Team
+Hardware,on - site technician assign docking station issue,Desktop Support
+Software,user submit ticket application crash report via self - service portal,Application Support
+Network,automate alert trigger network unauthorized device detect,Network Team
+Software,recur corrupted installation package report week,Application Support
+Hardware,overheat gpu issue escalate department head,Desktop Support
+Hardware,help desk receive complaint external ssd overheat review,Desktop Support
+Access,post - maintenance report : access deny abac policy observe,Desktop Support
+Network,ticket raise network monitor tool failure team notify,Network Team
+Access,on - site technician assign access deny guest policy,Desktop Support
+Software,help desk receive complaint application crash vm snapshot review,Application Support
+Network,network syslog server confirm system scan,Network Team
+Hardware,ticket raise laptop microphone working team notify,Desktop Support
+Hardware,sla breach risk due laptop screen flickering escalate,Desktop Support
+Security,insider threat alert impact business operation,Security Team
+Hardware,ticket raise loose cable connection team notify,Desktop Support
+Security,user submit ticket cloud misconfiguration via self - service portal,Security Team
+Security,automate alert trigger firewall intrusion alert,Security Team
+Network,network nat misconfigure detect workstation team dispatch,Network Team
+Security,system flag ransomware alert diagnostic initiate,Security Team
+Security,multiple user affect suspicious saas login priority raise,Security Team
+Security,incident log : suspicious dns poisoning await assignment,Security Team
+Hardware,on - site technician assign laptop screen invert color,Desktop Support
+Network,automate alert trigger access point misconfigured,Network Team
+Hardware,laptop screen vertical line impact business operation,Desktop Support
+Network,department manager flag network dns cache poison critical,Network Team
+Network,post - maintenance report : network syslog server observe,Network Team
+Software,system flag application crash debug diagnostic initiate,Application Support
+Hardware,user unable proceed due motherboard failure,Desktop Support
+Security,incident log : suspicious vendor compromise await assignment,Security Team
+Security,post - maintenance report : cloud misconfiguration observe,Security Team
+Hardware,system flag laptop camera blurry diagnostic initiate,Desktop Support
+Network,department manager flag dhcp failure critical,Network Team
+Network,user submit ticket vpn tunnel drop via self - service portal,Network Team
+Security,user submit ticket suspicious nist violation via self - service portal,Security Team
+Access,automate alert trigger access deny rbac policy,Desktop Support
+Hardware,sla breach risk due keyboard malfunction escalate,Desktop Support
+Network,department manager flag network speed slow critical,Network Team
+Software,department manager flag application respond critical,Application Support
+Hardware,incident log : speaker / audio failure await assignment,Desktop Support
+Hardware,user submit ticket desktop will not boot via self - service portal,Desktop Support
+Software,department manager flag application crash exit critical,Application Support
+Software,recur memory leak detect report week,Application Support
+Access,guest account expire issue escalate department head,Desktop Support
+Software,user submit ticket application crash module via self - service portal,Application Support
+Software,ticket raise spreadsheet formula error team notify,Application Support
+Software,application startup failure impact business operation,Application Support
+Security,automate alert trigger suspicious cookie theft,Security Team
+Network,ticket raise network ssl vpn failure team notify,Network Team
+Software,third - party vendor notify application crash workflow,Application Support
+Hardware,system flag overheat gpu diagnostic initiate,Desktop Support
+Access,multiple user affect access deny custom policy priority raise,Desktop Support
+Software,sla breach risk due mobile app installing escalate,Application Support
+Access,system flag privileged access misuse diagnostic initiate,Desktop Support
+Network,multiple user affect network ipsec tunnel failure priority raise,Network Team
+Access,multiple user affect access deny regulatory policy priority raise,Desktop Support
+Network,multiple user affect ssid visible priority raise,Network Team
+Software,antivirus update confirm system scan,Application Support
+Access,system flag access deny encryption policy diagnostic initiate,Desktop Support
+Network,department manager flag duplicate ip detect critical,Network Team
+Network,duplicate ip detect detect workstation team dispatch,Network Team
+Access,incident log : kerberos ticket expire await assignment,Desktop Support
+Software,recur container deployment error report week,Application Support
+Security,department manager flag suspicious dns poison critical,Security Team
+Hardware,laptop screen connector failure confirm system scan,Desktop Support
+Access,automate alert trigger access deny encryption policy,Desktop Support
+Access,remote user experience privileged access misuse vpn session active,Desktop Support
+Access,post - maintenance report : access deny conditional access observe,Desktop Support
+Hardware,sla breach risk due laptop screen dead pixel escalate,Desktop Support
+Access,third - party vendor notify role - base access error,Desktop Support
+Software,post - maintenance report : container deployment error observe,Application Support
+Security,post - maintenance report : suspicious custom policy violation observe,Security Team
+Software,application crash deploy confirm system scan,Application Support
+Security,sla breach risk due unpatched vulnerability escalate,Security Team
+Software,department manager flag application crash test critical,Application Support
+Hardware,third - party vendor notify smartphone charge issue,Desktop Support
+Software,department manager flag application crash cloud sync critical,Application Support
+Network,sla breach risk due latency spike escalate,Network Team
+Software,application crash api call issue escalate department head,Application Support
+Software,user unable proceed due app freeze,Application Support
+Hardware,post - maintenance report : motherboard failure observe,Desktop Support
+Network,user submit ticket network ips alert via self - service portal,Network Team
+Security,automate alert trigger suspicious endpoint alert,Security Team
+Software,user submit ticket plugin loading via self - service portal,Application Support
+Network,user submit ticket duplicate ip detect via self - service portal,Network Team
+Network,network cable damage impact business operation,Network Team
+Access,login issue impact business operation,Desktop Support
+Hardware,sla breach risk due laptop motherboard short circuit escalate,Desktop Support
+Network,ticket raise network jitter team notify,Network Team
+Hardware,on - site technician assign laptop screen ghost,Desktop Support
+Network,system flag bridge mode error diagnostic initiate,Network Team
+Hardware,automate alert trigger laptop keyboard backlight failure,Desktop Support
+Hardware,incident log : keyboard respond await assignment,Desktop Support
+Security,sla breach risk due phishe email detect escalate,Security Team
+Hardware,remote user experience hard drive failure vpn session active,Desktop Support
+Security,suspicious cis violation impact business operation,Security Team
+Access,system flag token validation error diagnostic initiate,Desktop Support
+Network,network tunneling error issue escalate department head,Network Team
+Network,department manager flag network blackhole rout critical,Network Team
+Network,post - maintenance report : network dhcp server observe,Network Team
+Access,user submit ticket access deny certificate policy via self - service portal,Desktop Support
+Software,application crash automation confirm system scan,Application Support
+Access,help desk receive complaint temporary access request review,Desktop Support
+Security,system flag suspicious rat detect diagnostic initiate,Security Team
+Hardware,ticket raise laptop speaker distortion team notify,Desktop Support
+Network,system flag proxy server misconfiguration diagnostic initiate,Network Team
+Security,incident log : keylogger detect await assignment,Security Team
+Security,incident log : suspicious activity detect await assignment,Security Team
+Access,group membership problem impact business operation,Desktop Support
+Network,recur network repeater failure report week,Network Team
+Network,help desk receive complaint bgp route flapping review,Network Team
+Software,recur application cpu overload report week,Application Support
+Access,department manager flag account disabled policy critical,Desktop Support
+Hardware,user unable proceed due hardware driver miss,Desktop Support
+Access,recur certificate login failure report week,Desktop Support
+Hardware,user submit ticket laptop screen problem via self - service portal,Desktop Support
+Hardware,laptop screen color distortion confirm system scan,Desktop Support
+Hardware,post - maintenance report : laptop screen dim observe,Desktop Support
+Hardware,multiple user affect scanner detect priority raise,Desktop Support
+Access,on - site technician assign mfa working,Desktop Support
+Security,department manager flag expose database critical,Security Team
+Network,help desk receive complaint qos misconfigured review,Network Team
+Security,automate alert trigger suspicious api token use,Security Team
+Network,remote user experience vpn certificate expire vpn session active,Network Team
+Network,post - maintenance report : firewall nat error observe,Network Team
+Software,automate alert trigger application crash service call,Application Support
+Network,automate alert trigger network ssl vpn failure,Network Team
+Network,on - site technician assign dns resolution problem,Network Team
+Security,user unable proceed due suspicious kernel activity,Security Team
+Network,automate alert trigger vpn connection failure,Network Team
+Software,help desk receive complaint software installation fail review,Application Support
+Access,role permission mismatch detect workstation team dispatch,Desktop Support
+Access,help desk receive complaint access deny siem policy review,Desktop Support
+Security,user submit ticket suspicious third - party compromise via self - service portal,Security Team
+Hardware,post - maintenance report : laptop screen resolution error observe,Desktop Support
+Access,incident log : access deny abac policy await assignment,Desktop Support
+Hardware,user unable proceed due peripheral compatibility issue,Desktop Support
+Security,multiple user affect suspicious arp spoof priority raise,Security Team
+Access,privileged access misuse impact business operation,Desktop Support
+Software,recur email client sync report week,Application Support
+Software,recur collaboration tool login failure report week,Application Support
+Network,automate alert trigger network jitter,Network Team
+Hardware,on - site technician assign desktop will not boot,Desktop Support
+Network,third - party vendor notify network jitter,Network Team
+Software,user submit ticket application crash vm restore via self - service portal,Application Support
+Software,automate alert trigger authentication error,Application Support
+Hardware,remote user experience ram issue vpn session active,Desktop Support
+Access,access deny iam policy issue escalate department head,Desktop Support
+Access,access deny iso policy confirm system scan,Desktop Support
+Access,recur guest account disabled report week,Desktop Support
+Access,multiple user affect ldap authentication fail priority raise,Desktop Support
+Security,malicious macro detect detect workstation team dispatch,Security Team
+Network,rout loop detect workstation team dispatch,Network Team
+Software,remote user experience application crash save vpn session active,Application Support
+Security,automate alert trigger suspicious sox violation,Security Team
+Network,department manager flag switch overheat critical,Network Team
+Software,sla breach risk due application crash api call escalate,Application Support
+Software,application crash workflow issue escalate department head,Application Support
+Network,multiple user affect wi - fi connectivity issue priority raise,Network Team
+Access,remote user experience access audit failure vpn session active,Desktop Support
+Network,third - party vendor notify network mpls misconfigure,Network Team
+Network,network eigrp misconfigured issue escalate department head,Network Team
+Access,user unable proceed due smart card recognize,Desktop Support
+Hardware,third - party vendor notify external hdd mount,Desktop Support
+Access,ticket raise privileged access misuse team notify,Desktop Support
+Access,system flag privilege escalation block diagnostic initiate,Desktop Support
+Software,application crash analytic confirm system scan,Application Support
+Hardware,motherboard capacitor blow detect workstation team dispatch,Desktop Support
+Network,incident log : network collision detect await assignment,Network Team
+Access,system flag access deny cloud service diagnostic initiate,Desktop Support
+Software,remote user experience application crash print vpn session active,Application Support
+Network,recur network port scanning detect report week,Network Team
+Network,user submit ticket cable unplug via self - service portal,Network Team
+Network,network alert storm detect workstation team dispatch,Network Team
+Access,access deny server issue escalate department head,Desktop Support
+Security,suspicious saas login confirm system scan,Security Team
+Security,department manager flag suspicious email attachment critical,Security Team
+Software,incident log : macro execution error await assignment,Application Support
+Software,multiple user affect authentication error priority raise,Application Support
+Access,system flag kerbero ticket expire diagnostic initiate,Desktop Support
+Software,on - site technician assign application freeze startup,Application Support
+Access,access deny mobile device policy issue escalate department head,Desktop Support
+Network,recur network unauthorized access report week,Network Team
+Network,system flag network blackhole rout diagnostic initiate,Network Team
+Security,suspicious contractor compromise impact business operation,Security Team
+Security,suspicious vendor compromise confirm system scan,Security Team
+Network,ticket raise vpn certificate expire team notify,Network Team
+Security,sla breach risk due suspicious beacon traffic escalate,Security Team
+Network,user unable proceed due dhcp failure,Network Team
+Software,virtual machine crash detect workstation team dispatch,Application Support
+Software,api call failure issue escalate department head,Application Support
+Hardware,automate alert trigger printer detect,Desktop Support
+Software,sla breach risk due operating system error escalate,Application Support
+Hardware,department manager flag laptop screen problem critical,Desktop Support
+Hardware,remote user experience overheat cpu vpn session active,Desktop Support
+Security,help desk receive complaint suspicious vm activity review,Security Team
+Network,network monitor tool failure impact business operation,Network Team
+Software,recur application crash print report week,Application Support
+Security,ticket raise suspicious policy violation team notify,Security Team
+Network,on - site technician assign network dns server,Network Team
+Access,user unable proceed due user access deny,Desktop Support
+Hardware,multiple user affect loose cable connection priority raise,Desktop Support
+Hardware,third - party vendor notify laptop keyboard backlight failure,Desktop Support
+Software,user unable proceed due compiler error,Application Support
+Network,recur internet outage report week,Network Team
+Network,multiple user affect access point priority raise,Network Team
+Hardware,laptop screen flicker confirm system scan,Desktop Support
+Hardware,user submit ticket overheat gpu via self - service portal,Desktop Support
+Hardware,third - party vendor notify laptop trackpad jitter,Desktop Support
+Hardware,help desk receive complaint battery drain fast review,Desktop Support
+Access,on - site technician assign access deny iam policy,Desktop Support
+Hardware,help desk receive complaint ram issue review,Desktop Support
+Security,suspicious contractor compromise confirm system scan,Security Team
+Hardware,multiple user affect laptop microphone working priority raise,Desktop Support
+Network,department manager flag network ips alert critical,Network Team
+Network,help desk receive complaint network compliance violation review,Network Team
+Network,network spoofing attempt detect workstation team dispatch,Network Team
+Hardware,department manager flag usb hub recognize critical,Desktop Support
+Security,suspicious ics alert issue escalate department head,Security Team
+Access,department manager flag access deny vendor policy critical,Desktop Support
+Software,recur cloud storage sync error report week,Application Support
+Hardware,ticket raise laptop screen problem team notify,Desktop Support
+Network,network split horizon error detect workstation team dispatch,Network Team
+Hardware,monitor flickering issue escalate department head,Desktop Support
+Software,application crash update confirm system scan,Application Support
+Hardware,help desk receive complaint laptop trackpad jitter review,Desktop Support
+Access,pin reset require confirm system scan,Desktop Support
+Network,multiple user affect voip call drop priority raise,Network Team
+Security,user unable proceed due email spoof detect,Security Team
+Hardware,system flag battery charge diagnostic initiate,Desktop Support
+Network,sla breach risk due network speed slow escalate,Network Team
+Network,multiple user affect network adapter disabled priority raise,Network Team
+Hardware,department manager flag laptop casing crack critical,Desktop Support
+Security,suspicious mobile device alert detect workstation team dispatch,Security Team
+Security,department manager flag malware alert critical,Security Team
+Software,remote user experience license expire vpn session active,Application Support
+Network,third - party vendor notify access point misconfigured,Network Team
+Software,application crash build issue escalate department head,Application Support
+Software,incident log : service start await assignment,Application Support
+Hardware,automate alert trigger overheat device,Desktop Support
+Access,system flag access policy violation diagnostic initiate,Desktop Support
+Network,ticket raise dns resolution failure team notify,Network Team
+Access,user submit ticket vpn login deny via self - service portal,Desktop Support
+Access,remote user experience access deny regulatory policy vpn session active,Desktop Support
+Network,department manager flag network ip address error critical,Network Team
+Hardware,system flag bio error diagnostic initiate,Desktop Support
+Access,ticket raise access deny server team notify,Desktop Support
+Security,ticket raise weak password detect team notify,Security Team
+Software,user submit ticket application crash print via self - service portal,Application Support
+Software,on - site technician assign application crash export,Application Support
+Hardware,post - maintenance report : mouse issue observe,Desktop Support
+Hardware,department manager flag docking station recognize critical,Desktop Support
+Access,access deny encryption policy confirm system scan,Desktop Support
+Network,post - maintenance report : network ospf misconfigured observe,Network Team
+Network,automate alert trigger network mtu mismatch,Network Team
+Access,recur token validation error report week,Desktop Support
+Security,recur rootkit find report week,Security Team
+Security,cloud misconfiguration issue escalate department head,Security Team
+Hardware,laptop screen horizontal line impact business operation,Desktop Support
+Access,sla breach risk due access deny gateway escalate,Desktop Support
+Hardware,third - party vendor notify desktop will not boot,Desktop Support
+Hardware,on - site technician assign laptop keyboard backlight failure,Desktop Support
+Software,user submit ticket application crash deploy via self - service portal,Application Support
+Hardware,ticket raise laptop battery swell team notify,Desktop Support
+Software,script runtime error issue escalate department head,Application Support
+Security,user unable proceed due suspicious memory dump,Security Team
+Network,help desk receive complaint network ssl vpn failure review,Network Team
+Access,access deny misconfiguration impact business operation,Desktop Support
+Software,user unable proceed due application crash debug,Application Support
+Security,sla breach risk due endpoint compliant escalate,Security Team
+Access,system flag access deny compliance policy diagnostic initiate,Desktop Support
+Access,multiple user affect access deny iam policy priority raise,Desktop Support
+Network,remote user experience network configuration drift vpn session active,Network Team
+Software,ticket raise application crash debug team notify,Application Support
+Software,third - party vendor notify update rollback issue,Application Support
+Access,remote user experience access log failure vpn session active,Desktop Support
+Network,help desk receive complaint hotspot working review,Network Team
+Hardware,user submit ticket ram failure via self - service portal,Desktop Support
+Access,incident log : share folder accessible await assignment,Desktop Support
+Network,multiple user affect network hub failure priority raise,Network Team
+Network,firewall nat error detect workstation team dispatch,Network Team
+Hardware,remote user experience desktop will not boot vpn session active,Desktop Support
+Network,automate alert trigger ethernet port disable,Network Team
+Network,department manager flag network authentication failure critical,Network Team
+Software,incident log : application crash script await assignment,Application Support
+Network,dhcp failure impact business operation,Network Team
+Access,user unable proceed due access deny rbac policy,Desktop Support
+Hardware,laptop motherboard short circuit detect workstation team dispatch,Desktop Support
+Access,access deny api impact business operation,Desktop Support
+Software,ui responsive impact business operation,Application Support
+Software,system flag application crash build diagnostic initiate,Application Support
+Access,department manager flag access timeout critical,Desktop Support
+Hardware,incident log : ssd detect await assignment,Desktop Support
+Security,multiple user affect security patch miss priority raise,Security Team
+Access,access deny network policy detect workstation team dispatch,Desktop Support
+Hardware,on - site technician assign laptop screen dim,Desktop Support
+Software,recur file corruption report week,Application Support
+Software,department manager flag licensing issue critical,Application Support
+Network,firewall nat error issue escalate department head,Network Team
+Security,help desk receive complaint suspicious port knock review,Security Team
+Network,user submit ticket network ipv6 misconfigure via self - service portal,Network Team
+Hardware,laptop screen line issue escalate department head,Desktop Support
+Software,remote user experience application crash script vpn session active,Application Support
+Software,on - site technician assign application registry corruption,Application Support
+Network,automate alert trigger network unauthorized access,Network Team
+Software,remote user experience application respond vpn session active,Application Support
+Access,remote user experience unauthorized login attempt vpn session active,Desktop Support
+Access,on - site technician assign access deny outage,Desktop Support
+Access,department manager flag access deny firewall critical,Desktop Support
+Hardware,incident log : hard drive crash await assignment,Desktop Support
+Access,access deny iso policy impact business operation,Desktop Support
+Hardware,automate alert trigger motherboard capacitor blow,Desktop Support
+Security,remote user experience suspicious policy violation vpn session active,Security Team
+Hardware,user unable proceed due laptop screen vertical line,Desktop Support
+Security,ticket raise suspicious sox violation team notify,Security Team
+Software,application crash uninstall detect workstation team dispatch,Application Support
+Access,post - maintenance report : access revocation pende observe,Desktop Support
+Hardware,sla breach risk due overheat cpu escalate,Desktop Support
+Hardware,system flag laptop screen yellow tint diagnostic initiate,Desktop Support
+Hardware,automate alert trigger laptop screen backlight failure,Desktop Support
+Hardware,department manager flag laptop cmos battery failure critical,Desktop Support
+Security,user unable proceed due suspicious ot device alert,Security Team
+Hardware,user unable proceed due laptop screen yellow tint,Desktop Support
+Security,incident log : suspicious exfiltration detect await assignment,Security Team
+Security,on - site technician assign suspicious scada alert,Security Team
+Security,help desk receive complaint suspicious dns hijack review,Security Team
+Security,recur suspicious sox violation report week,Security Team
+Software,post - maintenance report : patch update failed observe,Application Support
+Network,help desk receive complaint broadcast storm review,Network Team
+Network,network duplex mismatch detect workstation team dispatch,Network Team
+Hardware,laptop screen hinge break impact business operation,Desktop Support
+Network,department manager flag network default gateway miss critical,Network Team
+Software,post - maintenance report : application crash uninstall observe,Application Support
+Software,multiple user affect application crash import priority raise,Application Support
+Hardware,post - maintenance report : usb port working observe,Desktop Support
+Software,multiple user affect software update loop priority raise,Application Support
+Hardware,help desk receive complaint laptop screen pink tint review,Desktop Support
+Access,inactive account detect workstation team dispatch,Desktop Support
+Software,api timeout detect workstation team dispatch,Application Support
+Access,recur access deny gateway report week,Desktop Support
+Security,multiple user affect suspicious dns poisoning priority raise,Security Team
+Security,user submit ticket datum breach incident via self - service portal,Security Team
+Network,sla breach risk due network gre tunnel failure escalate,Network Team
+Hardware,sla breach risk due peripheral compatibility issue escalate,Desktop Support
+Hardware,user submit ticket laptop camera blurry via self - service portal,Desktop Support
+Security,help desk receive complaint suspicious arp spoof review,Security Team
+Software,sla breach risk due application configuration mismatch escalate,Application Support
+Software,multiple user affect ui responsive priority raise,Application Support
+Hardware,automate alert trigger laptop casing crack,Desktop Support
+Security,suspicious audit log tamper detect workstation team dispatch,Security Team
+Hardware,laptop screen pink tint detect workstation team dispatch,Desktop Support
+Security,user unable proceed due suspicious hipaa violation,Security Team
+Security,remote user experience suspicious gdpr violation vpn session active,Security Team
+Hardware,post - maintenance report : power supply failure observe,Desktop Support
+Hardware,ticket raise printer paper jam team notify,Desktop Support
+Access,ticket raise license expire team notify,Desktop Support
+Access,post - maintenance report : access deny certificate policy observe,Desktop Support
+Security,help desk receive complaint suspicious rat detect review,Security Team
+Network,network subnet mask error issue escalate department head,Network Team
+Security,sla breach risk due security patch miss escalate,Security Team
+Network,recur network collision detect report week,Network Team
+Access,user submit ticket kerbero ticket expire via self - service portal,Desktop Support
+Hardware,help desk receive complaint webcam malfunction review,Desktop Support
+Hardware,sla breach risk due hard drive failure escalate,Desktop Support
+Security,expose database impact business operation,Security Team
+Software,recur compiler error report week,Application Support
+Access,post - maintenance report : access deny gateway observe,Desktop Support
+Hardware,external ssd overheat confirm system scan,Desktop Support
+Network,incident log : network packet sniffing detect await assignment,Network Team
+Access,automate alert trigger unauthorized login attempt,Desktop Support
+Software,licensing issue issue escalate department head,Application Support
+Access,remote user experience access deny os policy vpn session active,Desktop Support
+Network,latency spike detect workstation team dispatch,Network Team
+Security,suspicious vm activity confirm system scan,Security Team
+Security,on - site technician assign suspicious login location,Security Team
+Hardware,sla breach risk due loose cable connection escalate,Desktop Support
+Security,automate alert trigger suspicious traffic tunneling,Security Team
+Hardware,system flag laptop screen backlight failure diagnostic initiate,Desktop Support
+Access,post - maintenance report : login issue observe,Desktop Support
+Security,incident log : suspicious driver installation await assignment,Security Team
+Network,isp outage issue escalate department head,Network Team
+Network,user submit ticket network monitor tool failure via self - service portal,Network Team
+Security,user unable proceed due suspicious file download,Security Team
+Software,sla breach risk due application crash backup escalate,Application Support
+Access,system flag access deny saas provider diagnostic initiate,Desktop Support

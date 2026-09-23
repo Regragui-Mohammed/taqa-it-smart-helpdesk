@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs & Temporary Files
+*.log
+*.tmp
+*.bak
+scratch/
+
+# Sensitive / Large Data (keep tracked templates only)
+*.sqlite3
+*.session
