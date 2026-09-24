@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 Overview
+## 📖 Overview 
 This project is an advanced, automated IT helpdesk solution that streamlines support requests. It utilizes cutting-edge Machine Learning and Natural Language Processing to instantly classify tickets, retrieve solutions from a proprietary Knowledge Base, and generate human-like, accurate responses for TAQA's employees.
 
 ## 🏗️ Modern Architecture
