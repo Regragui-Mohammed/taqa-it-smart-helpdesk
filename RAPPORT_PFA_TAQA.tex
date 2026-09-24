@@ -37,7 +37,7 @@
 \usepackage[scaled=0.92]{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 
-%% ─── COULEURS TAQA MOROCCO ──────────────────────────────────
+%% ─── COULEURS TAQA MOROCCO & ENSIASD ─────────────────────────
 \usepackage[dvipsnames,table]{xcolor}
 \definecolor{taqaNavy}{RGB}{10,  24,  64}
 \definecolor{taqaCyan}{RGB}{0,  174, 239}
@@ -47,6 +47,9 @@
 \definecolor{taqaLight}{RGB}{240, 245, 255}
 \definecolor{codebg}{RGB}{245, 247, 252}
 \definecolor{coderule}{RGB}{200, 215, 240}
+\definecolor{ensiasdBar}{RGB}{68, 114, 196}
+\definecolor{ensiasdLine}{RGB}{0, 112, 192}
+\definecolor{ensiasdBlue}{RGB}{0, 102, 178}
 
 %% ─── GRAPHIQUES ─────────────────────────────────────────────
 \usepackage{graphicx}
@@ -192,94 +195,65 @@
 %% ════════════════════════════════════════════════════════════
 \begin{document}
 
-%% ─── PAGE DE GARDE ──────────────────────────────────────────
+%% ─── PAGE DE GARDE (OFFICIELLE ENSIASD / TAQA MOROCCO) ──────
 \begin{titlepage}
-\pagecolor{taqaNavy}
-\color{white}
+\newgeometry{top=1.2cm, bottom=1.5cm, left=2.2cm, right=2.2cm}
 \begin{center}
-  \vspace*{0.2cm}
 
-  %% Bande institutionnelle
-  \textcolor{taqaCyan}{\rule{\textwidth}{3pt}}
-  \vspace{0.2cm}
+  %% En-tête institutionnel ENSIASD & Université Ibn Zohr
+  \includegraphics[width=0.90\linewidth,keepaspectratio]{ensiasd_header}
 
-  {\footnotesize\color{taqaCyan}
-   \textbf{ROYAUME DU MAROC} \quad|\quad
-   \textbf{UNIVERSITE IBN ZOHR — AGADIR}}\\[6pt]
-  {\small\bfseries\color{taqaCyan}
-   ECOLE NATIONALE SUPERIEURE DE L'INTELLIGENCE ARTIFICIELLE\\
-   ET SCIENCES DES DONNEES (ENSIASD) — TAROUDANT}
+  \vspace{0.25cm}
+  %% Barre bleue institutionnelle
+  \noindent\textcolor{ensiasdBar}{\rule{\linewidth}{7pt}}
+
+  \vspace{0.65cm}
+  %% Logo officiel TAQA Morocco (version fond clair)
+  \includegraphics[width=5.6cm,keepaspectratio]{logo_taqa_dark}
 
   \vspace{0.5cm}
-  \textcolor{taqaCyan}{\rule{0.5\textwidth}{0.8pt}}
+  {\LARGE\rmfamily RAPPORT DE STAGE}\\[0.35cm]
+  {\large\rmfamily Fili\`ere : Sciences des Donn\'ees, Big Data \& IA}
+
+  \vspace{0.65cm}
+  %% Cadre et Titre du projet
+  \noindent\textcolor{ensiasdLine}{\rule{\linewidth}{2pt}}
   \vspace{0.3cm}
 
-  %% Logo TAQA
-  \includegraphics[width=6cm,keepaspectratio]{logo_taqa}
+  {\Large\bfseries\color{ensiasdLine}
+   Syst\`eme Intelligent de Classification des Tickets IT\\[6pt]
+   et Chatbot de R\'esolution Bas\'e sur une Architecture RAG}
 
-  \vspace{0.5cm}
-  {\large\bfseries RAPPORT DE PROJET DE FIN D'ANNEE (PFA)}\\[4pt]
-  {\normalsize\color{taqaGold}\itshape
-   Filiere : Sciences des Donnees, Big Data \& Intelligence Artificielle}
+  \vspace{0.25cm}
+  \noindent\textcolor{ensiasdLine}{\rule{\linewidth}{2pt}}
 
   \vspace{0.6cm}
+  {\normalsize\rmfamily Pr\'esent\'e par}\\[0.25cm]
+  {\huge\bfseries\rmfamily Regragui Mohammed}
 
-  %% Titre principal
-  \fcolorbox{taqaCyan}{taqaBlue!80!taqaNavy}{%
-    \begin{minipage}{0.90\textwidth}
-      \vspace{0.5cm}
-      \centering
-      {\Large\bfseries\color{white}
-       CONCEPTION ET DEPLOIEMENT D'UNE\\[4pt]
-       PLATEFORME ITSM INTELLIGENTE}\\[8pt]
-      {\normalsize\color{taqaLight}
-       Basee sur le NLP (spaCy), le Machine Learning Multi-Sorties\\
-       et un Agent Conversationnel LLM (LLaMA~3.2 / RAG Deterministe)}\\[6pt]
-      {\small\bfseries\color{taqaGold}
-       Application au Support Technique de TAQA Morocco}
-      \vspace{0.5cm}
-    \end{minipage}%
-  }
+  \vspace{0.75cm}
+  {\normalsize\rmfamily Soutenue le \hbox to 7.5cm{\dotfill} \`a l'Heure}
 
-  \vspace{0.7cm}
-  {\normalsize\color{taqaCyan}\textbf{TAQA IT Smart Helpdesk}
-   — Centrale Thermique de Jorf Lasfar}
-
-  \vspace{0.7cm}
-  \textcolor{taqaCyan}{\rule{0.55\textwidth}{0.6pt}}
-  \vspace{0.4cm}
-
-  {\normalsize Presente par :}\\[5pt]
-  {\Large\bfseries\color{taqaGold} Mohammed REGRAGUI}\\[3pt]
-  {\small\color{taqaGray} Etudiant en Sciences des Donnees \& Intelligence Artificielle}
-
-  \vspace{0.7cm}
-  \begin{minipage}{0.88\textwidth}
-    \centering
-    \footnotesize
-    \begin{tabular}{lll}
-      \toprule
-      \rowcolor{taqaBlue!80}
-      \textbf{\color{white}Titre} &
-      \textbf{\color{white}Affiliation} &
-      \textbf{\color{white}Role dans le Jury} \\
-      \midrule
-      Pr. & ENSIASD de Taroudant & President du Jury \\
-      Pr. & ENSIASD de Taroudant & Examinateur \\
-      Pr. & ENSIASD de Taroudant & Examinateur \\
-      Pr. & ENSIASD de Taroudant & Encadrant Pedagogique \\
-      M./Mme. & TAQA Morocco & Encadrant Industriel \\
-      \bottomrule
+  \vspace{0.65cm}
+  \noindent
+  \begin{minipage}{\linewidth}
+    {\normalsize\rmfamily Devant le jury}\\[0.3cm]
+    \renewcommand{\arraystretch}{1.3}
+    \begin{tabular}{@{}p{2.0cm} p{9.8cm} p{3.5cm}@{}}
+      \rmfamily Pr & \rmfamily Professeur \`a l'ENSIASD de Taroudant & \rmfamily Pr\'esident \\
+      \rmfamily Pr & \rmfamily Professeur \`a l'ENSIASD de Taroudant & \rmfamily Examinateur \\
+      \rmfamily Pr & \rmfamily Professeur \`a l'ENSIASD de Taroudant & \rmfamily Examinateur \\
+      \rmfamily Pr & \rmfamily Professeur \`a l'ENSIASD de Taroudant & \rmfamily Encadrant \\
+      \rmfamily Pr/Mr & \rmfamily Etablissement d'accueil : TAQA Morocco & \rmfamily Encadrant \\
     \end{tabular}
   \end{minipage}
 
   \vfill
-  \textcolor{taqaCyan}{\rule{\textwidth}{1pt}}\\[3pt]
-  {\small Annee Universitaire 2024 -- 2025
-   \quad\textbullet\quad Soutenu en Juin 2025}
+  {\normalsize\rmfamily Ann\'ee Universitaire 2025- 2026}
+
 \end{center}
+\restoregeometry
 \end{titlepage}
-\nopagecolor
 
 %% ─── PAGES PRÉLIMINAIRES ────────────────────────────────────
 \frontmatter
@@ -1177,40 +1151,103 @@ Base conn. & JSON structure & UTF-8 & 162 fiches d'assistance \\
 
 \section{Interfaces utilisateurs}
 
-\subsection{Authentification -- \texttt{LoginPage.jsx}}
+L'interface de la plateforme \textbf{TAQA IT Smart Helpdesk} a ete concue selon les principes modernes de l'ergonomie logicielle et du design system \textit{Glassmorphism}, en parfaite harmonie avec la charte graphique officielle de TAQA Morocco (bleu nuit profond, cyan energetique et touches or). L'application s'articule autour de quatre interfaces principales concues en React~18.
 
-Design epure avec logo officiel TAQA sur fond degrade bleu nuit. L'utilisateur
-choisit son profil (\textit{Employe} ou \textit{Technicien Support}) avec
-selection optionnelle de l'equipe d'affectation.
+%% ====================================================================
+%% CAPTURE D'ÉCRAN 1 : PAGE D'AUTHENTIFICATION
+%% Fichier image : report_figures/fig_ui_login.png
+%% Description    : Écran de login avec logo TAQA et sélection du profil
+%% ====================================================================
+\subsection{Authentification et controle d'acces -- \texttt{LoginPage.jsx}}
 
-\subsection{Portail Employe -- \texttt{TicketForm.jsx}}
+L'ecran d'authentification constitue le point d'entree securise du systeme. Il integre une carte en verre depoli (\textit{glassmorphism}) positionnee sur un fond degrade aux couleurs institutionnelles de TAQA. 
 
+L'utilisateur peut :
 \begin{itemize}
-  \item Cartes de statistiques personnelles (Tickets declares, En cours, Resolus).
-  \item \textbf{Formulaire IA en temps reel} : prediction de categorie et equipe
-        affichees durant la frappe (appel API \texttt{/api/predict} a chaque
-        keystroke avec debounce 500\,ms).
-  \item Tableau recapitulatif des incidents mis a jour en direct.
+  \item Saisir son adresse de messagerie corporative (\texttt{@taqa.ma}) et son mot de passe.
+  \item Basculer de maniere intuitive entre le profil \textbf{Employe} (consommateur du service) et le profil \textbf{Technicien Support} (gestionnaire des incidents).
+  \item Choisir dynamiquement son equipe technique de rattachement (\textit{Desktop Support}, \textit{Network Team}, \textit{Security Team} ou \textit{Application Support}) en mode technicien.
 \end{itemize}
 
-\subsection{Widget conversationnel Sara -- \texttt{ChatWidget.jsx}}
+Comme illustre par la Figure~\ref{fig:ui-login}, cette interface garantit un aiguillage immediat vers le tableau de bord adapte des la validation des identifiants.
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.82\textwidth,keepaspectratio]{fig_ui_login}
+  \caption{Page d'authentification -- Interface en verre depoli et selection du profil utilisateur (\texttt{LoginPage.jsx})}
+  \label{fig:ui-login}
+\end{figure}
+
+%% ====================================================================
+%% CAPTURE D'ÉCRAN 2 : PORTAIL EMPLOYÉ & PRÉDICTION IA
+%% Fichier image : report_figures/fig_ui_employee.png
+%% Description    : Dashboard employé avec KPIs, tickets et formulaire IA
+%% ====================================================================
+\subsection{Portail Employe et saisie intelligente -- \texttt{TicketForm.jsx}}
+
+Le portail employe regroupe l'ensemble des services dedies aux collaborateurs de la centrale thermique. L'ecran est structure en trois zones ergonomiques :
+\begin{enumerate}
+  \item \textbf{Bandeau de KPIs personnels} : visualisation en temps reel du nombre de demandes actives, des tickets resolus et du taux de disponibilite des systemes IT (99.8\,\%).
+  \item \textbf{Fiche d'identite du collaborateur} : rappel de la direction, du poste d'affectation et des autorisations d'acces.
+  \item \textbf{Formulaire de declaration avec prediction IA} : champ de saisie libre ou l'algorithme Machine Learning analyse le texte en temps reel. Des lors que l'employe tape sa requete, une requete asynchrone (\textit{debounce} 500\,ms) interroge l'endpoint \texttt{/api/predict}. Les badges interactifs affichent instantanement la categorie predite (ex: \textbf{Hardware}) et l'equipe assignee (ex: \textbf{Desktop Support}) avant meme la soumission du formulaire.
+  \item \textbf{Tableau d'historique} : suivi synthetique des tickets soumis avec leurs identifiants uniques et leurs statuts (\textit{In Progress}, \textit{Resolved}).
+\end{enumerate}
+
+La Figure~\ref{fig:ui-employee} presente la vue complete du portail employe lors de la soumission d'une requete d'assistance.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.98\textwidth,keepaspectratio]{fig_ui_employee}
+  \caption{Portail Employe -- Tableau de bord de suivi et formulaire avec prediction IA en temps reel (\texttt{TicketForm.jsx})}
+  \label{fig:ui-employee}
+\end{figure}
+
+%% ====================================================================
+%% CAPTURE D'ÉCRAN 3 : WIDGET SARA (CHATBOT & ESCALADE)
+%% Fichier image : report_figures/fig_ui_chat_sara.png
+%% Description    : Fenêtre de chat montrant l'escalade d'un incident critique
+%% ====================================================================
+\subsection{Widget conversationnel et escalade -- \texttt{ChatWidget.jsx}}
+
+L'agente conversationnelle Sara est accessible sous forme de bulle interactive flottante (\textit{floating widget}) presente en permanence sur l'ecran. Elle offre une double fonctionnalite :
 \begin{itemize}
-  \item Bouton flottant accessible depuis toutes les pages.
-  \item Puces de suggestions rapides : \textit{Password Reset}, \textit{VPN},
-        \textit{HELP / Technicien}.
-  \item Fil de discussion avec affichage Markdown des etapes de resolution.
-  \item Cartes visuelles de confirmation de ticket en cas d'escalade.
+  \item \textbf{Puces d'amorcage rapide} : boutons d'action en un clic pour les pannes courantes (\textit{Password Reset}, \textit{VPN AnyConnect}, \textit{SOS Technicien}).
+  \item \textbf{Resolution RAG guidee} : lorsque la question correspond a l'une des 162 fiches certifiees, Sara restitue une procedure pedagogique en Markdown (etapes chiffrees, commandes a executer, liens intranet).
+  \item \textbf{Escalade automatique} : lorsqu'un incident critique ou inconnu est signale (par exemple une alerte \textit{ransomware} ou panne majeure), l'algorithme detecte le seuil critique, alerte l'equipe specialisee et genere instantanement une carte visuelle de ticket (ex: \textbf{TCK-1024}, priorite \textit{CRITICAL}) avec transmission prioritaire.
 \end{itemize}
 
-\subsection{Tableau de bord Superviseur -- \texttt{SupportDashboard.jsx}}
+La Figure~\ref{fig:ui-chat-sara} illustre la detection d'un ransomware par Sara et la creation immediate d'un ticket prioritaire pour l'equipe Securite.
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.92\textwidth,keepaspectratio]{fig_ui_chat_sara}
+  \caption{Widget Sara -- Prise en charge d'un incident de securite critique et auto-escalade avec ticket TCK-1024 (\texttt{ChatWidget.jsx})}
+  \label{fig:ui-chat-sara}
+\end{figure}
+
+%% ====================================================================
+%% CAPTURE D'ÉCRAN 4 : TABLEAU DE BORD TECHNICIEN SUPPORT
+%% Fichier image : report_figures/fig_ui_support.png
+%% Description    : Vue superviseur avec file d'attente, priorités et actions
+%% ====================================================================
+\subsection{Tableau de bord Superviseur et Technicien -- \texttt{SupportDashboard.jsx}}
+
+L'interface dediee aux techniciens du support technique constitue la tour de controle operationnelle de l'ITSM. Elle offre :
 \begin{itemize}
-  \item Vue filtrable par equipe (4 equipes distinctes).
-  \item Badges de statut interactifs (\textit{In Progress}
-        $\rightarrow$ \textit{Resolved}) en un clic.
-  \item Indicateurs de priorite visuels (Critical, High, Normal).
+  \item \textbf{Indicateurs de charge globale} : nombre total de tickets recus, incidents en cours d'investigation, tickets resolus et alertes prioritaires necessitant une intervention immediate.
+  \item \textbf{File d'attente filtrable par equipe} : menu deroulant permettant d'isoler en un clic les incidents alloues a une equipe specifique (\textit{Desktop Support}, \textit{Network Team}, \textit{Security Team}, \textit{Application Support \& SAP}).
+  \item \textbf{Code couleur des priorites} : pastilles visuelles normalisees permettant de reperer d'un coup d'oeil le degre de gravite (\textcolor{red}{\textbf{Critical}}, \textcolor{orange}{\textbf{High}}, \textcolor{taqaGray}{\textbf{Normal}}).
+  \item \textbf{Actions de resolution en un clic} : bouton \texttt{Mark Resolved} pour clore une intervention sans delai, et fonction \texttt{Reopen} pour reouvrir un dossier en cas de recidive.
 \end{itemize}
+
+La Figure~\ref{fig:ui-support} presente la file d'attente de l'equipe \textit{Desktop Support} avec la gestion des priorites et le traitement des requetes.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.98\textwidth,keepaspectratio]{fig_ui_support}
+  \caption{Tableau de bord Superviseur -- File d'attente operationnelle de l'equipe Desktop Support (\texttt{SupportDashboard.jsx})}
+  \label{fig:ui-support}
+\end{figure}
 
 \section{Tests d'integration et validation}
 
