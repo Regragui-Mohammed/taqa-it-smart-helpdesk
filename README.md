@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
 </p>
 
----
+--- 
 
 ## 📖 Overview 
 This project is an advanced, automated IT helpdesk solution that streamlines support requests. It utilizes cutting-edge Machine Learning and Natural Language Processing to instantly classify tickets, retrieve solutions from a proprietary Knowledge Base, and generate human-like, accurate responses for TAQA's employees.
