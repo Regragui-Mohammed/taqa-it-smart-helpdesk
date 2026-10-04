@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo_taqa.png" alt="TAQA Morocco Logo" width="180">
+  <img src="assets/logo_taqa.png" alt="TAQA Morocco Logo" width="180"> 
 </p> 
 
 <h1 align="center"> TAQA IT Smart Helpdesk</h1>
