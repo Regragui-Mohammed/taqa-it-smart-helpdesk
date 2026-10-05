@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="assets/logo_taqa.png" alt="TAQA Morocco Logo" width="180"> 
 </p> 
 
