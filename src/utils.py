@@ -166,39 +166,60 @@ def get_solu(user_msg: str, category: str = None, json_path: str = None) -> dict
 # 3. LLaMA / Ollama Integration (generer_reponse_llama)
 # ---------------------------------------------------------------------------
 def _simplified_response(raw_solution: str) -> str:
-    """Clean fallback formatting when Ollama is unavailable or timed out."""
-    lines = raw_solution.strip().split("\n")
-    formatted = []
+    """
+    Condenses long corporate SOPs into crisp, 3-to-4-step actionable guidance
+    perfect for an instant-messaging chatbot view.
+    """
+    if not raw_solution:
+        return "I'm sorry, no solution procedure was found for this issue."
 
-    for line in lines:
-        line_s = line.strip()
-        if not line_s or line_s.startswith("|---") or line_s == "|" or line_s.startswith("---"):
+    sections = re.split(r'(?=#{1,4}\s*(?:Step|Étape|[🅰️🅱️🅲️]|\d+\.))', raw_solution)
+    steps = []
+
+    for sec in sections:
+        sec = sec.strip()
+        if not sec or any(skip in sec.lower() for skip in ["need additional assistance", "password security policy", "criterion", "if the issue persists"]):
             continue
 
-        # Convert table row "| Key | Value |" to clean bullet "• Key: Value"
-        if line_s.startswith("|") and line_s.endswith("|"):
-            cells = [c.strip() for c in line_s.strip("|").split("|")]
-            if len(cells) >= 2:
-                # ignore header row
-                if any(h in cells[0].lower() for h in ["criterion", "critère", "paramètre", "error", "erreur", "type", "champ"]):
-                    continue
-                formatted.append(f"  • **{cells[0]}**: {cells[1]}")
+        lines = [l.strip() for l in sec.split("\n") if l.strip()]
+        if not lines:
+            continue
+
+        step_title = re.sub(r'^#{1,4}\s*', '', lines[0]).strip()
+        step_title = re.sub(r'^(?:Step|Étape)\s*\d+\s*[—\-:]*\s*', '', step_title, flags=re.IGNORECASE)
+
+        actions = []
+        for l in lines[1:]:
+            if any(ign in l.lower() for ign in ["if the portal", "if the message", "verify that the network icon", "try accessing", "if you are teleworking"]):
                 continue
+            if l.startswith("|") and l.endswith("|"):
+                cells = [c.strip() for c in l.strip("|").split("|")]
+                if len(cells) >= 2 and not any(h in cells[0].lower() for h in ["criterion", "critère"]):
+                    actions.append(f"• **{cells[0]}**: {cells[1]}")
+                continue
+            if re.match(r'^\d+\.\s', l) or l.startswith("- ") or l.startswith("* "):
+                clean_l = re.sub(r'^\d+\.\s*|^[-*]\s*', '', l)
+                actions.append(f"• {clean_l}")
+                if len(actions) >= 2:
+                    break
 
-        if re.match(r'^#{1,4}\s*(Step|Étape)\s*\d+', line_s, re.IGNORECASE):
-            clean_title = re.sub(r'^#{1,4}\s*', '', line_s)
-            formatted.append(f"\n📌 **{clean_title}**")
-        elif line_s.startswith("- ") or line_s.startswith("* "):
-            formatted.append(f"  • {line_s[2:]}")
-        elif re.match(r'^\d+\.\s', line_s):
-            formatted.append(f"  {line_s}")
-        elif line_s.startswith("## ") or line_s.startswith("# "):
-            formatted.append(f"\n**{line_s.lstrip('#').strip()}**")
-        else:
-            formatted.append(line_s)
+        if actions and len(step_title) > 3:
+            steps.append((step_title, actions))
+            if len(steps) >= 4:
+                break
 
-    header = "Here are the recommended steps to resolve your issue:\n\n"
-    return header + "\n".join(formatted)
+    if steps:
+        formatted = ["Here are the recommended steps to resolve this:\n"]
+        for idx, (title, acts) in enumerate(steps, 1):
+            formatted.append(f"**{idx}. {title}**")
+            for act in acts:
+                formatted.append(f"   {act}")
+        formatted.append("\n📞 *Need immediate help? Reply **HELP** or call Help Desk at extension **1000**.*")
+        return "\n".join(formatted)
+
+    # General fallback
+    lines = [l.strip() for l in raw_solution.strip().split("\n") if l.strip() and not l.startswith("|---") and not l.startswith("---")]
+    return "\n".join(lines[:12])
 
 
 def generer_reponse_llama(user_query: str, raw_solution: str, model_name: str = "llama3.2") -> str:
