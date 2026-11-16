@@ -59,6 +59,11 @@ npm-debug.log*
 *.toc
 *.vrb
 
+# Video clips & Rendered output
+clips/
+output/
+*.mp4
+
 # Sensitive / Large Data (keep tracked templates only)
 *.sqlite3
 *.session
