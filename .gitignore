@@ -35,6 +35,30 @@ ehthumbs.db
 *.bak
 scratch/
 
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
 # Sensitive / Large Data (keep tracked templates only)
 *.sqlite3
 *.session

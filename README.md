@@ -34,15 +34,10 @@ Built entirely on a decoupled architecture for maximum performance and 100% data
 - 🔒 **100% Air-Gapped AI:** All LLM processing is executed locally. No sensitive corporate data is sent to external APIs (like OpenAI or Anthropic).
 - 📊 **Enterprise UI:** A custom, TAQA-branded interface designed for intuitive employee self-service.
 
-## 🚀 Installation & Setup
-
-### 1. Prerequisites
-- Node.js & npm
-- Python 3.9+
-- [Ollama](https://ollama.com/) installed locally.
-
-An intelligent, enterprise-grade IT Service Management (ITSM) and Helpdesk automation platform designed for **TAQA Morocco**.  
-Built entirely on a **Modern React 18 + Vite Frontend** coupled with a high-performance **Python Flask REST API Backend**, backed by **Machine Learning (MultiOutput LinearSVC + TF-IDF)**, a **spaCy NLP Preprocessing Pipeline**, a **162-article English Knowledge Base**, and a **Local Large Language Model (LLaMA 3.2 via Ollama)**.
+## 📋 Prerequisites
+- **Node.js** (v18+) & **npm**
+- **Python** 3.9+
+- **[Ollama](https://ollama.com/)** (with `llama3.2` model: `ollama run llama3.2`)
 
 ---
 
