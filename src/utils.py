@@ -169,20 +169,32 @@ def _simplified_response(raw_solution: str) -> str:
     """Clean fallback formatting when Ollama is unavailable or timed out."""
     lines = raw_solution.strip().split("\n")
     formatted = []
-    step_num = 1
 
     for line in lines:
         line_s = line.strip()
+        if not line_s or line_s.startswith("|---") or line_s == "|" or line_s.startswith("---"):
+            continue
+
+        # Convert table row "| Key | Value |" to clean bullet "• Key: Value"
+        if line_s.startswith("|") and line_s.endswith("|"):
+            cells = [c.strip() for c in line_s.strip("|").split("|")]
+            if len(cells) >= 2:
+                # ignore header row
+                if any(h in cells[0].lower() for h in ["criterion", "critère", "paramètre", "error", "erreur", "type", "champ"]):
+                    continue
+                formatted.append(f"  • **{cells[0]}**: {cells[1]}")
+                continue
+
         if re.match(r'^#{1,4}\s*(Step|Étape)\s*\d+', line_s, re.IGNORECASE):
             clean_title = re.sub(r'^#{1,4}\s*', '', line_s)
-            formatted.append(f"\n**{clean_title}**")
+            formatted.append(f"\n📌 **{clean_title}**")
         elif line_s.startswith("- ") or line_s.startswith("* "):
             formatted.append(f"  • {line_s[2:]}")
         elif re.match(r'^\d+\.\s', line_s):
             formatted.append(f"  {line_s}")
         elif line_s.startswith("## ") or line_s.startswith("# "):
-            formatted.append(f"### {line_s.lstrip('#').strip()}")
-        elif line_s:
+            formatted.append(f"\n**{line_s.lstrip('#').strip()}**")
+        else:
             formatted.append(line_s)
 
     header = "Here are the recommended steps to resolve your issue:\n\n"
@@ -208,10 +220,11 @@ Below is the verified resolution procedure from our corporate knowledge base:
 
 Your Instructions:
 1. Greet the user warmly and concisely.
-2. Provide the exact steps from the procedure above in a clear, numbered sequence (Step 1, Step 2...).
+2. Provide the exact steps from the procedure above in a clear, numbered sequence (keep it concise, 4-5 steps max).
 3. Keep technical commands and links intact (e.g. portal.taqa.ma).
-4. Do NOT invent steps not present in the procedure.
-5. End with a friendly closing asking if this resolved their issue or if they need technician assistance.
+4. Do NOT output raw markdown table pipes (|) — format rules as clear bullet points.
+5. Do NOT invent steps not present in the procedure.
+6. End with a friendly closing asking if this resolved their issue or if they need technician assistance.
 Output in clear Markdown."""
 
     try:
@@ -224,10 +237,10 @@ Output in clear Markdown."""
                 "options": {
                     "temperature": 0.2,
                     "top_p": 0.9,
-                    "num_predict": 450,
+                    "num_predict": 350,
                 },
             },
-            timeout=12,
+            timeout=18,
         )
         if response.status_code == 200:
             result = response.json().get("response", "").strip()

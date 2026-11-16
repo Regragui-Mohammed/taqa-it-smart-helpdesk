@@ -82,13 +82,36 @@ export default function ChatWidget() {
     }
   };
 
-  // Helper to format basic markdown (**bold**, newlines)
+  // Helper to format basic markdown (**bold**, newlines, tables)
   const renderFormattedText = (text) => {
     if (!text) return null;
     const lines = text.split("\n");
 
     return lines.map((line, lineIdx) => {
-      const parts = line.split(/(\*\*.*?\*\*)/g);
+      const trimmed = line.trim();
+
+      // Skip table dividers like |---|---|
+      if (trimmed.startsWith("|") && (trimmed.includes("---") || trimmed.includes("==="))) {
+        return null;
+      }
+
+      // Format markdown table rows into clean bullet points
+      let displayLine = line;
+      if (trimmed.startsWith("|") && trimmed.endsWith("|")) {
+        const cells = trimmed
+          .split("|")
+          .map((c) => c.trim())
+          .filter(Boolean);
+        if (cells.length >= 2) {
+          // If it's a header like Criterion / Requirement, skip or bold
+          if (["criterion", "critère", "requirement", "paramètre"].includes(cells[0].toLowerCase())) {
+            return null;
+          }
+          displayLine = `• **${cells[0]}**: ${cells.slice(1).join(" — ")}`;
+        }
+      }
+
+      const parts = displayLine.split(/(\*\*.*?\*\*)/g);
       const renderedParts = parts.map((part, pIdx) => {
         if (part.startsWith("**") && part.endsWith("**")) {
           return <strong key={pIdx}>{part.slice(2, -2)}</strong>;
