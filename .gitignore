@@ -63,6 +63,7 @@ npm-debug.log*
 clips/
 output/
 *.mp4
+produce_cinema_demo*.py
 
 # Sensitive / Large Data (keep tracked templates only)
 *.sqlite3

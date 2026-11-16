@@ -2,9 +2,10 @@
   <img src="assets/logo_taqa.png" alt="TAQA Morocco Logo" width="180">  
 </p>  
 
-<h1 align="center"> TAQA IT Smart Helpdesk</h1>  
+<h1 align="center">TAQA IT Smart Helpdesk</h1>  
 
 <p align="center">
+  <strong>⚡ AI Ticket Routing & Offline RAG Chatbot</strong><br>
   <em>An intelligent, enterprise-grade IT Service Management (ITSM) and Helpdesk automation platform designed for TAQA Morocco.</em>
 </p>
 
@@ -13,6 +14,14 @@
   <img src="https://img.shields.io/badge/Backend-Python_Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/AI-LLaMA_3.2-0467DF?style=for-the-badge" alt="LLaMA 3.2" />
   <img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+</p>
+
+<p align="center">
+  <img src="assets/demo.gif" alt="TAQA IT Smart Helpdesk - Live Demo" width="100%" />
+</p>
+
+<p align="center">
+  <sub>⚡ <em>Interactive Walkthrough: Role-Based Access, Real-Time AI Ticket Auto-Routing (98.5% Accuracy), Sara RAG Virtual Assistant, & Live Support Queue</em></sub>
 </p>
 
 --- 
